@@ -4,7 +4,45 @@ const HomeCTA = () => {
   return (
     <div className='home-wrapper'>
       <div className='cta'>
-        <div className='logo-wrapper'></div>
+        <div className='logo-wrapper'>
+          {/* <div className='social-icons'>
+            <a
+              href='https://www.facebook.com/EnsembleTheatreOfChattanooga/'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <i class='fab fa-facebook-f'></i>
+            </a>
+            <a
+              href='https://twitter.com/etofc'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <i class='fab fa-twitter'></i>
+            </a>
+            <a
+              href='https://www.instagram.com/ensembletheatreofchattanooga/'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <i class='fab fa-instagram'></i>
+            </a>
+            <a
+              href='https://www.youtube.com/user/ETCgarry/featured'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <i class='fab fa-youtube'></i>
+            </a>
+            <a
+              href='https://www.patreon.com/ETChattanooga'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <i class='fab fa-patreon'></i>
+            </a>
+          </div> */}
+        </div>
       </div>
     </div>
   );
