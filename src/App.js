@@ -1,6 +1,7 @@
 import React from 'react';
 
-import HomeCTA from './components/HomeCTA';
+import Navigation from './components/Navigation';
+import Home from './screens/Home';
 
 import './App.css';
 
@@ -8,7 +9,8 @@ function App() {
   return (
     <div className='App'>
       <header className='App-header'></header>
-      <HomeCTA></HomeCTA>
+      <Navigation />
+      <Home></Home>
     </div>
   );
 }
