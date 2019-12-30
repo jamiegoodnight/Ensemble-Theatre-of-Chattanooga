@@ -128,6 +128,11 @@ table {
   border-spacing: 0;
 }
 
+p {
+  font-size: 2rem;
+  color: white;
+}
+
 html {
   font-size: 62.5%;
 }
@@ -147,7 +152,7 @@ h3 {
 .home-wrapper {
   display: flex;
   justify-content: center;
-  border: 5px solid black;
+  /* border: 5px solid black; */
 }
 
 .cta {
@@ -155,13 +160,15 @@ h3 {
   justify-content: center;
   align-items: center;
   width: 80%;
-  border: 5px solid red;
+  /* border: 5px solid red; */
 }
 
 .logo-wrapper {
-  width: 50%;
+  width: 100%;
   height: 550px;
-  border: 5px solid pink;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  /* border: 5px solid pink; */
   background-image: url('https://i.imgur.com/auFu7IL.png');
   background-repeat: no-repeat;
   background-size: contain;
@@ -194,14 +201,14 @@ h3 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 5px solid green;
+  /* border: 5px solid green; */
 }
 
 .event-wrapper {
   display: flex;
   width: 90%;
   height: 120px;
-  border: 5px solid orange;
+  /* border: 5px solid orange; */
   margin-bottom: 10px;
   box-shadow: 5px 5px 15px -3px #000000;
 }
@@ -231,7 +238,7 @@ h3 {
   flex-direction: column;
   align-items: flex-start;
   padding: 15px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 .info-heading {
@@ -250,11 +257,16 @@ h3 {
 
 p {
   font-family: 'Lato', sans-serif;
-  font-size: 1.5rem;
-  font-weight: light;
+  font-size: 2rem;
+  /* font-weight: light; */
 }
 
-.event-image {
+h3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 5rem;
+}
+
+/* .event-image {
   width: 20%;
   height: 120px;
   background-image: url('https://images-na.ssl-images-amazon.com/images/I/71KE4JaW0RL._SY355_.jpg');
@@ -262,8 +274,13 @@ p {
   background-size: contain;
   background-position: 50% 50%;
   /* clip-path: circle(58.4% at 89% 30%); */
-  border: 5px solid black;
-  margin-left: 20%;
+/* border: 5px solid black;
+  margin-left: 20%; */
+.event-image {
+  margin-top: -300px;
+  margin-left: 70%;
+  width: 45%;
+  height: 390px;
 }
 
 /* NAVIGATION */
@@ -272,7 +289,7 @@ p {
 
 .navigation {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-end;
 }
 
 .navigation h3 {
@@ -302,6 +319,9 @@ p {
 }
 
 .show-one {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
   width: 100%;
   height: 100%;
   background-image: url('https://i.imgur.com/8v7f9qB.jpg');
@@ -310,18 +330,43 @@ p {
   background-position: 50% 50%;
 }
 
+.show-one p {
+  margin-top: 50px;
+  margin-right: 10%;
+}
+
+.show-one h3 {
+  color: #d0311e;
+  font-weight: bold;
+  margin-right: 10%;
+}
+
 .show-wrapper-two {
   width: 60%;
   height: 500px;
 }
 
 .show-two {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   width: 100%;
   height: 100%;
   background-image: url('https://i.imgur.com/XH9EeKa.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
+}
+
+.show-two p {
+  margin-top: 150px;
+  margin-right: 10%;
+}
+
+.show-two h3 {
+  color: #0068a9;
+  font-weight: bold;
+  margin-right: 10%;
 }
 
 .show-wrapper-three {
@@ -345,12 +390,34 @@ p {
 }
 
 .show-four {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 250px;
+  padding-left: 3%;
   width: 100%;
   height: 100%;
   background-image: url('https://i.imgur.com/XzjX6s1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
+}
+
+.four-box {
+  padding-top: 100px;
+  text-align: left;
+}
+
+.show-four h3 {
+  padding-left: 60px;
+  /* color: #9e223a; */
+  color: #510126;
+  font-weight: bold;
+}
+
+.show-four p {
+  color: black;
+  font-weight: bold;
 }
 
 .show-wrapper-five {
@@ -364,7 +431,17 @@ p {
   background-image: url('https://i.imgur.com/uQ8ZFzi.png');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 90%;
+}
+
+.show-five p {
+  padding-left: 40%;
+}
+.show-five h3 {
+  padding-top: 390px;
+  padding-left: 40%;
+  color: #6f2704;
+  font-weight: bold;
 }
 
 .show-wrapper-six {
@@ -381,3 +458,21 @@ p {
   background-size: cover;
   background-position: 50% 50%;
 }
+
+.six-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 80px;
+  padding-left: 45%;
+}
+
+.show-six h3 {
+  color: #f4884a;
+  font-weight: bold;
+}
+
+/* .show-six p {
+  color: rgb(122, 58, 58);
+  font-weight: bold;
+} */
