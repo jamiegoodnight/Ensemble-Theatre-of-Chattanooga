@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
 
+import NavigationCSS from '../styles/NavigationCSS.css';
+
 const Navigation = () => {
   return (
     <>
-      <img className='mask' src='https://i.imgur.com/3ObOUI4.jpg' />
+      <img className='mask' src='https://i.imgur.com/HSJ5XRp.jpg' />
       <div className='nav-wrapper'>
         <div className='main-navigation'>
           {/* <div className='current-show'>

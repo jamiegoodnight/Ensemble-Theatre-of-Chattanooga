@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
+import HomeShowsCSS from '../styles/HomeShowsCSS.css';
+
 const HomeShows = () => {
   return (
     <div className='homeshows-wrapper'>

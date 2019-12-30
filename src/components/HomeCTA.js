@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
+import HomeCTACSS from '../styles/HomeCTACSS.css';
+
 const HomeCTA = () => {
   return (
     <div className='home-wrapper'>

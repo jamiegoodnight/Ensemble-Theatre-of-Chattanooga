@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
+import FooterCSS from '../styles/FooterCSS.css';
+
 const Footer = () => {
   return (
     <div className='footer'>
