@@ -21,7 +21,13 @@ const HomeShows = () => {
       </div>
       <div className='row'>
         <div className='show-wrapper-three'>
-          <div className='show-three pointer'></div>
+          <div className='show-three pointer'>
+            <div className='three-box'>
+              <h3>ALL IN </h3>
+              <h3>THE TIMING</h3>
+              <p>Casey Keelen as Kafka</p>
+            </div>
+          </div>
         </div>
         <div className='show-wrapper-four'>
           <div className='show-four pointer'>
@@ -29,8 +35,9 @@ const HomeShows = () => {
               <h3>THE</h3>
               <h3>SCARLET</h3>
               <h3>LETTER</h3>
+              <p>Apryl Kelli Hughes</p>
+              <p>as Hester Prynne</p>
             </div>
-            <p>Apryl Kelli Hughes as Hester Prynne</p>
           </div>
         </div>
       </div>
