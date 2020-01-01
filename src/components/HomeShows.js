@@ -25,7 +25,7 @@ const HomeShows = () => {
             <div className='three-box'>
               <h3>ALL IN </h3>
               <h3>THE TIMING</h3>
-              <p>Casey Keelen as Dawn</p>
+              <p>Casey Keelen as Kafka</p>
             </div>
           </div>
         </div>
