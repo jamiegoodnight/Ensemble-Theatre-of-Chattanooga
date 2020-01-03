@@ -18,7 +18,7 @@ const Navigation = () => {
               <p>FEB 5 - FEB 21</p>
             </div>
             <h3>HOME</h3>
-            <h3>ABOUT</h3>
+            <h3>ENSEMBLE</h3>
             <h3>GET INVOLVED</h3>
           </div>
         </div>
