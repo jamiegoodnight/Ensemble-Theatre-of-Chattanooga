@@ -5,6 +5,7 @@ import Navigation from './components/Navigation';
 import Home from './screens/Home';
 import About from './screens/About';
 import GetInvolved from './screens/GetInvolved';
+import Media from './screens/Media';
 import Community from './screens/Community';
 import Footer from './components/Footer';
 
@@ -18,8 +19,9 @@ const App = () => {
         <Navigation />
         <Home></Home>
         <About></About>
-        <GetInvolved></GetInvolved>
         <Community></Community>
+        <GetInvolved></GetInvolved>
+        {/* <Community></Community> */}
         <Footer></Footer>
       </div>
     </div>

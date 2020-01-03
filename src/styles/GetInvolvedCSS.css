@@ -1,11 +1,12 @@
 .GI-wrapper {
   display: flex;
   flex-direction: column;
+  margin-bottom: 100px;
 }
 
-.buffer {
+/* .buffer {
   height: 100px;
-}
+} */
 
 .GI-div {
   display: flex;
@@ -141,7 +142,7 @@
 
 .auditions-text h1 {
   font-family: 'Lato', sans-serif;
-  font-size: 8rem;
+  font-size: 7rem;
   font-weight: bold;
   margin-bottom: 20px;
 }
@@ -149,7 +150,7 @@
 .auditions-text h2 {
   font-family: 'Open Sans', sans-serif;
   line-height: 2.5rem;
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 .designing-text {
@@ -160,7 +161,7 @@
 
 .designing-text h1 {
   font-family: 'Lato', sans-serif;
-  font-size: 8rem;
+  font-size: 7rem;
   font-weight: bold;
   margin-bottom: 20px;
 }
@@ -168,7 +169,7 @@
 .designing-text h2 {
   font-family: 'Open Sans', sans-serif;
   line-height: 2.5rem;
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 .directing-text {
@@ -179,7 +180,7 @@
 
 .directing-text h1 {
   font-family: 'Lato', sans-serif;
-  font-size: 8rem;
+  font-size: 7rem;
   font-weight: bold;
   margin-bottom: 20px;
 }
@@ -187,7 +188,7 @@
 .directing-text h2 {
   font-family: 'Open Sans', sans-serif;
   line-height: 2.5rem;
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 .volunteering-text {
@@ -198,7 +199,7 @@
 
 .volunteering-text h1 {
   font-family: 'Lato', sans-serif;
-  font-size: 8rem;
+  font-size: 7rem;
   font-weight: bold;
   margin-bottom: 20px;
 }
@@ -206,7 +207,7 @@
 .volunteering-text h2 {
   font-family: 'Open Sans', sans-serif;
   line-height: 2.5rem;
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 .text-box {
@@ -228,7 +229,7 @@
 } */
 
 .btn {
-  margin-top: 20px;
+  margin-top: 25px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -243,14 +244,14 @@ a {
 a h5 {
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.7rem;
   letter-spacing: 2px;
 }
 
 .text-box .social-icons {
   /* margin-top: 620px; */
   /* margin-left: -9%; */
-  margin-top: 20px;
+  margin-top: 25px;
   /* margin-left: 50px; */
   margin-left: 0;
   width: 220px;
