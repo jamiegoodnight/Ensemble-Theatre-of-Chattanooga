@@ -1,24 +1,14 @@
+/* Styles for "Home" show images and text */
+
 .homeshows-wrapper {
   display: flex;
   flex-direction: column;
   animation: fade-in 2s cubic-bezier(0.39, 0.575, 0.565, 1) both;
 }
 
-.row {
+.show-row {
   display: flex;
-  /* border: 5px solid lawngreen; */
 }
-
-/* .zoom {
-    cursor: pointer;
-    transition: transform 0.2s;
-  }
-  
-  @media (min-width: 1000px) {
-    .zoom:hover {
-      transform: scale(1.1);
-    }
-  } */
 
 .pointer {
   cursor: pointer;
