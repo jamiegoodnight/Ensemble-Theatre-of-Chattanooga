@@ -13,7 +13,6 @@ const Community = () => {
       <Core></Core>
       <Audience></Audience>
       <Donors></Donors>
-      {/* <Guest></Guest>  */}
     </div>
   );
 };

@@ -96,81 +96,8 @@ const Donors = () => {
           </div>
         </div>
       </div>
-      {/* <div className='tl-box-container c2'>
-        <div className='tl-box'>
-          <div className='inner-box box-1'>
-            <i class='fas fa-people-carry'></i>
-            <h4>Some friends</h4>
-            <p>
-              ArtsBuild | Community Foundation of Greater Chattanooga |
-              Chattanooga Autism Center | Medical Foundation of Chattanooga |
-              Reflection Riding Arbortoreum and Nature Center
-            </p>
-          </div>
-        </div>
-        <div className='tl-box box-2'>
-          <div className='inner-box box-2'>
-            <i class='fas fa-hands-helping'></i>
-            <h4>Part of a whole</h4>
-            <p>
-              Our vision is to generously contribute to the cultural landscape
-              by cultivating new works, artists, and patrons, providing
-              comprehensive educational programs, and collaborating on community
-              outreach projects.
-            </p>
-          </div>
-        </div>
-        <div className='tl-box box-2'>
-          <div className='inner-box box-3'>
-            <i class='fas fa-hands-helping'></i>
-            <h4>Part of a whole</h4>
-            <p>
-              Our vision is to generously contribute to the cultural landscape
-              by cultivating new works, artists, and patrons, providing
-              comprehensive educational programs, and collaborating on community
-              outreach projects.
-            </p>
-          </div>
-        </div>
-      </div> */}
     </div>
   );
 };
-
-// const Timeline = () => {
-//   return (
-//     <div className='timeline-wrapper'>
-//       <div className='who-are-we'>
-//         <h3>Who are we</h3>
-//         <p>
-//           Ensemble Theatre of Chattanooga is Chattanooga's only theatre with a
-//           goal of providing artists with financial compensation.
-//         </p>
-//         <p>
-//   We strive to create dynamic and unique experiences for our audiences
-//   and artists by producing shows that engage the imagination, evaluate
-//   the human experience, and encourage conversation.
-//         </p>
-//       </div>
-//       {/* <div className='tl-segment tl-rom'></div>
-//       <div className='tl-segment tl-fal'></div>
-//       <div className='tl-segment tl-jek'></div>
-//       <div className='tl-segment tl-cat'></div>
-//       <div className='tl-segment tl-about'></div> */}
-//       {/* <div className='who-are-we'>
-//         <h3>Who are we</h3>
-//         <p>
-//           Ensemble Theatre of Chattanooga is Chattanooga's only theatre with a
-//           goal of providing artists with financial compensation.
-//         </p>
-//         <p>
-//           We strive to create dynamic and unique experiences for our audiences
-//           and artists by producing shows that engage the imagination, evaluate
-//           the human experience, and encourage conversation.
-//         </p>
-//       </div> */}
-//     </div>
-//   );
-// };
 
 export default Donors;

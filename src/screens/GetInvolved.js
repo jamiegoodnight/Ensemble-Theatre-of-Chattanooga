@@ -15,7 +15,6 @@ const GetInvolved = () => {
           <h3 className='white-h3 dir-text-4'>AUDITION</h3>
         </div>
         <div className='GI-inner-div auditions-text'>
-          {/* <i class='fas fa-theater-masks'></i> */}
           <div className='text-box'>
             <h1>AUDITION</h1>
             <h2>
@@ -55,7 +54,6 @@ const GetInvolved = () => {
               <h5>Design</h5>
             </Button>
           </div>
-          {/* <i class='fas fa-tools'></i> */}
         </div>
         <div className='GI-inner-div designing-image'>
           <h3 className='white-h3 dir-text-1'>DESIGN</h3>
@@ -72,7 +70,6 @@ const GetInvolved = () => {
           <h3 className='white-h3 dir-text-4'>DIRECT</h3>
         </div>
         <div className='GI-inner-div directing-text'>
-          {/* <i class='fas fa-bullhorn'></i> */}
           <div className='text-box'>
             <h1>DIRECT</h1>
             <h2>
@@ -140,7 +137,6 @@ const GetInvolved = () => {
               </a>
             </div>
           </div>
-          {/* <i class='fas fa-hands-helping'></i> */}
         </div>
         <div className='GI-inner-div volunteering-image'>
           <h3 className='white-h3 dir-text-1'>SUPPORT</h3>

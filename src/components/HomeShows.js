@@ -5,7 +5,7 @@ import HomeShowsCSS from '../styles/HomeShowsCSS.css';
 const HomeShows = () => {
   return (
     <div className='homeshows-wrapper'>
-      <div className='row'>
+      <div className='show-row'>
         <div className='show-wrapper-one'>
           <div className='show-one pointer'>
             <p>Jeremy Wilkins as Caliban</p>
@@ -19,7 +19,7 @@ const HomeShows = () => {
           </div>
         </div>
       </div>
-      <div className='row'>
+      <div className='show-row'>
         <div className='show-wrapper-three'>
           <div className='show-three pointer'>
             <div className='three-box'>
@@ -41,7 +41,7 @@ const HomeShows = () => {
           </div>
         </div>
       </div>
-      <div className='row'>
+      <div className='show-row'>
         <div className='show-wrapper-five'>
           <div className='show-five pointer'>
             <h3>OTHELLO</h3>
