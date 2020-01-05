@@ -10,9 +10,25 @@
   width: 100%;
 }
 
+@media (max-width: 1110px) {
+  .GI-div {
+    border: 3px solid red;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 1000px;
+  }
+}
+
 .GI-inner-div {
   width: 50%;
   height: 100%;
+}
+
+@media (max-width: 1110px) {
+  .GI-inner-div {
+    width: 100%;
+  }
 }
 
 .auditions-image {
@@ -267,4 +283,11 @@ a h5 {
 
 .navigation img {
   width: 90px;
+}
+
+@media (max-width: 1110px) {
+  .designing,
+  .volunteering {
+    flex-direction: column-reverse;
+  }
 }

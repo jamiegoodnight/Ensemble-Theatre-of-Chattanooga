@@ -12,6 +12,13 @@
   margin-top: 100px;
 }
 
+@media (max-width: 1110px) {
+  .tl-box-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 .c2 {
   margin-top: 50px;
 }

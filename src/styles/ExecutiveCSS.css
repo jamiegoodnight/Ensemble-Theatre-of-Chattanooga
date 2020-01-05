@@ -7,6 +7,17 @@
   margin-top: -100px;
 }
 
+@media (max-width: 1110px) {
+  .exec-wrapper2 {
+    flex-direction: column-reverse;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    height: 999px;
+    background-color: white;
+  }
+}
+
 .ex-title {
   background-color: black;
   width: 50%;
@@ -16,17 +27,57 @@
   text-align: left;
 }
 
+@media (max-width: 1110px) {
+  .ex-title {
+    margin-top: 1px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    width: 70%;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+}
+
 .exec-bg-chr {
   width: 15%;
   height: 500px;
   background-image: url('https://i.imgur.com/LDcB0vL.png');
-  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 1110px) {
+  .exec-bg-chr {
+    display: none;
+    background-image: url('https://i.imgur.com/4jQx8FN.jpg');
+    width: 100%;
+    /* height: 400px; */
+    height: 33%;
+    background-position: 50% 50%;
+    margin-bottom: -875px;
+  }
+}
+
+@media (max-width: 350px) {
+  .exec-bg-chr {
+    margin-top: 50px;
+  }
 }
 
 .text-h3 {
   font-family: 'Lato', sans-serif;
   font-size: 2rem;
   font-weight: bold;
+}
+
+@media (max-width: 1100px) {
+  .text-h3 {
+    color: black;
+    /* margin-left: -60px; */
+  }
 }
 
 .ex-title p {
@@ -37,11 +88,40 @@
   padding-top: 20px;
 }
 
+@media (max-width: 1100px) {
+  .ex-title p {
+    color: black;
+  }
+}
+
+@media (max-width: 600px) {
+  .ex-title p {
+    padding-right: 20px;
+  }
+}
+
 .exec-bg {
   width: 44.8%;
   height: 500px;
   background-image: url('https://i.imgur.com/58HfdZ0.png');
   background-size: cover;
+}
+
+@media (max-width: 1110px) {
+  .exec-bg {
+    width: 100%;
+    /* height: 400px; */
+    height: 33%;
+    background-position: 50% 25%;
+    margin-top: -714px;
+    background-image: url('https://i.imgur.com/JlU2LV7.png');
+  }
+}
+
+@media (max-width: 800px) {
+  .exec-bg {
+    height: 20%;
+  }
 }
 
 .exec-title-wrapper {
@@ -51,12 +131,37 @@
   padding-left: 20px;
 }
 
+@media (max-width: 1110px) {
+  .exec-title-wrapper {
+    width: 80%;
+    /* height: 400px; */
+    height: 33%;
+    position: absolute;
+    margin-top: -310px;
+    margin-left: 68%;
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .exec-title-wrapper {
+    margin-left: 55%;
+  }
+}
+
 .ex-h3 {
   writing-mode: vertical-rl;
   text-orientation: mixed;
   font-family: 'Lato', sans-serif;
   font-size: 4rem;
   font-weight: bold;
+}
+
+@media (max-width: 1110px) {
+  .ex-h3 {
+    font-size: 3rem;
+    color: black;
+  }
 }
 
 .ex-buffer {
