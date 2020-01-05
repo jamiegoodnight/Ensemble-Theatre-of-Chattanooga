@@ -24,9 +24,15 @@ const App = () => {
             <h2>ASSASSINS</h2>
             <p>FEB 5 - FEB 21</p>
           </div>
-          <h3>Home</h3>
-          <h3>About</h3>
-          <h3>Get Involved</h3>
+          <a href='#Home' onClick={() => setActive(false)}>
+            <h3>Home</h3>
+          </a>
+          <a href='#About' onClick={() => setActive(false)}>
+            <h3>About</h3>
+          </a>
+          <a href='#Get-Involved' onClick={() => setActive(false)}>
+            <h3>Get Involved</h3>
+          </a>
         </div>
         {/* <div className={active === true ? 'desktop-nav' : 'display'}> */}
         <div>

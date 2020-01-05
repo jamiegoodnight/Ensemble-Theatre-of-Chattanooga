@@ -4,7 +4,7 @@ import TimelineCSS from '../styles/TimelineCSS.css';
 
 const Timeline = () => {
   return (
-    <div className='tl-container'>
+    <div className='tl-container' id='About'>
       <div className='tl-box-container'>
         <div className='tl-box'>
           <div className='inner-box box-1'>

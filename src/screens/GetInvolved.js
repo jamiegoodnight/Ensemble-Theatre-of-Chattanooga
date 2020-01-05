@@ -5,7 +5,7 @@ import GetInvolvedCSS from '../styles/GetInvolvedCSS.css';
 
 const GetInvolved = () => {
   return (
-    <div className='GI-wrapper'>
+    <div className='GI-wrapper' id='Get-Involved'>
       <div className='buffer'></div>
       <div className='GI-div auditions'>
         <div className='GI-inner-div auditions-image'>

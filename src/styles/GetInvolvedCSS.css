@@ -12,7 +12,6 @@
 
 @media (max-width: 1110px) {
   .GI-div {
-    border: 3px solid red;
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
