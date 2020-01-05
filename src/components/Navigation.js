@@ -2,11 +2,15 @@ import React, { useState, useEffect } from 'react';
 
 import NavigationCSS from '../styles/NavigationCSS.css';
 
-const Navigation = () => {
+const Navigation = props => {
+  const activate = () => {
+    props.setActive(!props.active);
+  };
   return (
     <>
       <img className='mask' src='https://i.imgur.com/HSJ5XRp.jpg' />
       <div className='nav-wrapper'>
+        <i onClick={() => activate()} class='fas fa-bars' id='bars'></i>
         <div className='main-navigation'>
           <div className='navigation-items'>
             <div className='current-show'>

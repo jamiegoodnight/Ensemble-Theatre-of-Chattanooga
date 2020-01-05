@@ -144,6 +144,7 @@ html {
 
 .App {
   text-align: center;
+  overflow: hidden;
   /* display: flex; */
   /* flex-direction: column;
   align-items: center; */
@@ -162,4 +163,32 @@ h3 {
   color: white;
   font-family: 'Lato', sans-serif;
   font-size: 5rem;
+}
+
+.desktop-nav {
+  height: 0px;
+}
+
+.mobile-nav {
+  position: fixed;
+  z-index: 10;
+  background-color: white;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  animation: slide-in-top 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+.mobile-nav h3 {
+  color: black;
+  font-size: 4rem;
+  margin-bottom: 50px;
+}
+
+.mobile-nav .current-show {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }

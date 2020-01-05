@@ -12,17 +12,31 @@ import Footer from './components/Footer';
 import './App.css';
 
 const App = () => {
+  const [active, setActive] = useState(false);
+
   return (
     <div className='App'>
       <header className='App-header'></header>
       <div className='constrainer'>
-        <Navigation />
-        <Home></Home>
-        <About></About>
-        <Community></Community>
-        <GetInvolved></GetInvolved>
-        {/* <Community></Community> */}
-        <Footer></Footer>
+        <Navigation active={active} setActive={setActive} />
+        <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
+          <div className='current-show'>
+            <h2>ASSASSINS</h2>
+            <p>FEB 5 - FEB 21</p>
+          </div>
+          <h3>Home</h3>
+          <h3>About</h3>
+          <h3>Get Involved</h3>
+        </div>
+        {/* <div className={active === true ? 'desktop-nav' : 'display'}> */}
+        <div>
+          <Home></Home>
+          <About></About>
+          <Community></Community>
+          <GetInvolved></GetInvolved>
+          {/* <Community></Community> */}
+          <Footer></Footer>
+        </div>
       </div>
     </div>
   );
