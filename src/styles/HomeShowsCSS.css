@@ -6,8 +6,26 @@
   animation: fade-in 2s cubic-bezier(0.39, 0.575, 0.565, 1) both;
 }
 
+@media (max-width: 600px) {
+  .homeshows-wrapper {
+    margin-top: -10%;
+  }
+}
+
+@media (max-width: 400px) {
+  .homeshows-wrapper {
+    margin-top: -15%;
+  }
+}
+
 .show-row {
   display: flex;
+}
+
+@media (max-width: 1110px) {
+  .show-row {
+    flex-direction: column;
+  }
 }
 
 .pointer {
@@ -18,6 +36,12 @@
   width: 40%;
   height: 700px;
   overflow: hidden;
+}
+
+@media (max-width: 1110px) {
+  .show-wrapper-one {
+    width: 100%;
+  }
 }
 
 .show-one {
@@ -52,6 +76,12 @@
   overflow: hidden;
 }
 
+@media (max-width: 1110px) {
+  .show-wrapper-two {
+    width: 100%;
+  }
+}
+
 .show-two {
   display: flex;
   flex-direction: column;
@@ -84,6 +114,12 @@
   overflow: hidden;
 }
 
+@media (max-width: 1110px) {
+  .show-wrapper-three {
+    width: 100%;
+  }
+}
+
 .show-three {
   width: 100%;
   height: 100%;
@@ -113,6 +149,12 @@
   height: 600px;
   margin-top: -210px;
   overflow: hidden;
+}
+
+@media (max-width: 1110px) {
+  .show-wrapper-four {
+    width: 100%;
+  }
 }
 
 .show-four {
@@ -153,6 +195,12 @@
   overflow: hidden;
 }
 
+@media (max-width: 1110px) {
+  .show-wrapper-five {
+    width: 100%;
+  }
+}
+
 .show-five {
   width: 100%;
   height: 100%;
@@ -160,6 +208,12 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 90%;
+}
+
+@media (max-width: 1110px) {
+  .show-five {
+    background-position: 50% 50%;
+  }
 }
 
 .show-five p {
@@ -180,6 +234,14 @@
   height: 920px;
   margin-top: -420px;
   overflow: hidden;
+}
+
+@media (max-width: 1110px) {
+  .show-wrapper-six {
+    width: 100%;
+    margin-top: -5px;
+    height: 700px;
+  }
 }
 
 .show-six {
