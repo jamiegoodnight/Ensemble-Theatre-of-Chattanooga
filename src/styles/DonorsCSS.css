@@ -6,6 +6,12 @@
   margin-bottom: 100px;
 }
 
+@media (max-width: 1110px) {
+  .dn-container {
+    align-items: flex-start;
+  }
+}
+
 .dn-box-container {
   display: flex;
   justify-content: center;
@@ -16,8 +22,8 @@
 
 @media (max-width: 1110px) {
   .dn-box-container {
+    width: 100%;
     border: 3px solid red;
-    flex-direction: column;
   }
 }
 
@@ -40,6 +46,28 @@
   margin-left: 20px;
 }
 
+@media (max-width: 1110px) {
+  .dn-box {
+    width: 100%;
+    border: 3px solid blue;
+    margin-left: 1px;
+    text-align: left;
+    height: 300px;
+  }
+}
+
+@media (max-width: 550px) {
+  .dn-box {
+    height: 390px;
+  }
+}
+
+@media (max-width: 360px) {
+  .dn-box-2 {
+    margin-top: 80px;
+  }
+}
+
 .dn-inner-box {
   height: 290px;
   overflow: visible;
@@ -53,6 +81,7 @@
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
 .dn-box p {
   font-family: 'Open Sans', sans-serif;
   line-height: 2.5rem;
@@ -131,4 +160,18 @@
   background-size: cover;
   background-position: 50% 50%;
   margin-left: 115px;
+}
+
+@media (max-width: 1110px) {
+  .jordan,
+  .bruce,
+  .robbye,
+  .leighanne,
+  .founders,
+  .starbucks,
+  .unum,
+  .cigna,
+  .partners {
+    margin-left: 1px;
+  }
 }

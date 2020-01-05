@@ -58,6 +58,12 @@
   background-image: url('https://i.imgur.com/UwktkLt.jpg');
 }
 
+@media (max-width: 550px) {
+  .volunteering-image {
+    background-position: 50% 50%;
+  }
+}
+
 .left-wrap {
   display: flex;
   flex-wrap: wrap;
@@ -111,16 +117,76 @@
   font-size: 17rem;
 }
 
+@media (max-width: 550px) {
+  .directing-image .white-h3 {
+    font-size: 12rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .directing-image .white-h3 {
+    font-size: 11rem;
+  }
+}
+
 .auditions-image .white-h3 {
   font-size: 17rem;
+}
+
+@media (max-width: 770px) {
+  .auditions-image .white-h3 {
+    font-size: 12rem;
+  }
+}
+
+@media (max-width: 550px) {
+  .auditions-image .white-h3 {
+    font-size: 11rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .auditions-image .white-h3 {
+    font-size: 8rem;
+  }
 }
 
 .designing-image .white-h3 {
   font-size: 17rem;
 }
 
+@media (max-width: 600px) {
+  .designing-image .white-h3 {
+    font-size: 11rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .designing-image .white-h3 {
+    font-size: 10rem;
+  }
+}
+
 .volunteering-image .white-h3 {
   font-size: 17rem;
+}
+
+@media (max-width: 600px) {
+  .volunteering-image .white-h3 {
+    font-size: 12rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .volunteering-image .white-h3 {
+    font-size: 10rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .volunteering-image .white-h3 {
+    font-size: 8rem;
+  }
 }
 
 .dir-text-2 {
