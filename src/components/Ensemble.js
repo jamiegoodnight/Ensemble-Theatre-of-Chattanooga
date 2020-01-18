@@ -43,6 +43,59 @@ const Ensemble=()=>{
                          <a href="http://www.cholovich.com">
                     <i class="far fa-address-card"></i></a>
                 </div>
+            <div className= 'Blue CaseyKeelen'></div>
+            <div className= 'Black'>
+                    <h3>Casey Keelen</h3>
+                    <h6>Agnetha - Frozen</h6>
+                    <p>Casey Keelen is a 2007 graduate of the Professional Actor Training Program at 
+                        Chattanooga State Community College. She has earned a Bachelor’s Degree in Mass 
+                        Communications from UTC. Casey has enjoyed theatre for many years, as an actor, 
+                        stage manager, director, and much more. She has had the privilege of playing some 
+                        amazing roles, including Helen in Fat Pig, Faith in Columbinus, and Wife in The 
+                        Christians. She would like to thank her family, friends, and ETC family for their 
+                        love and support.</p>
+                </div>
+            <div className= 'Blue CodyKeown'></div>
+            <div className= 'Black'>
+                    <h3>Cody Keown</h3>
+                    <h6>Czolgolz, etc. - Assassins</h6>
+                    <h6>Debo - The Wolf in the River</h6>
+                    <p>Cody is very excited to be performing with ETC again! He was seen on stage last 
+                        season in “Urinetown” and “Billy Elliot” and is more than ecstatic to be jumping into 
+                        some more shows this year. Cody is a graduate of the Professional Actor Training 
+                        Program at Chattanooga State and has spent the last few years performing at theme parks 
+                        and singing on cruises. He wants to say thank you for coming out and giving your 
+                        support to the theatre community.</p>
+                </div>
+            <div className= 'Blue MichaelMyers'></div>
+            <div className= 'Black'>
+                    <h3>Michael Myers</h3>
+                    <h6>John Hinckley, etc. - Assassins</h6>
+                    <h6>Loud Stone - Eurydice</h6>
+                    <p>Michael Myers is pleased to be finally joining ETC. Previously, he has run lights and 
+                        sound, as well as acted, for various shows at Oak Street Playhouse. His favorite roles 
+                        include Hannibal in The Curious Savage, Jeff in The Regifters, Monsieur D’Arque in Beauty 
+                        and the Beast, William in The Bench, multiple roles in Almost, Maine, Mr. Mushnik in 
+                        Little Shop of Horrors, and George in Our Town. When not on or behind the stage, he works 
+                        at Cleveland State Community College in the Records office. Much love to his family for 
+                        all the love and support!</p>
+                </div>
+            <div className= 'Blue KashunParks'></div>
+            <div className= 'Black'>
+                    <h3>Kashun Parks</h3>
+                    <h6>Big Stone - Eurydice</h6>
+                    <h6>Female Ensemble - Love, Repeating</h6>
+                    <p>Recently Kashun appeared on the Oak Street Playhouse stage as Tina Yates in the 
+                        Charitable Sisterhood Christmas Spectular last Christmas. Kashun truly enjoyed playing 
+                        Lauren Cunningham in The Regifters. Kashun made her debut to Chattanooga's theatre 
+                        scene with ETC in 2017 playing in many shows since then, including ETC’s production of 
+                        Casting the Canvas. Kashun has earned her MBA in HR Management and BS in Theatre. Most 
+                        recently Kashun has had roles in ETC’s 2019 season, playing Senator Fipp in Urinetown 
+                        and Elder in The Christians. Some of her favorite past characters include Siobhan in 
+                        The Curious Incident of the Dog in the Nighttime. Tituba in The Crucible, and the 
+                        Amazonian in Sideshow. She is forever grateful to Marvin, Mikel, Imari, and Makori 
+                        for supporting her dreams.</p>
+                </div>
             <div className= 'Blue KatieWarren'></div>
             <div className= 'Black'>
                     <h3>Katie Warren</h3>
@@ -56,20 +109,8 @@ const Ensemble=()=>{
                     teacher. She has a passion for theater, and looks forward to what this year will 
                     bring.</p>
                 </div>
-            <div className= 'Blue CaseyKeelen'></div>
+            <div className= 'Blue JosephWatts'></div>
             <div className= 'Black'>
-                    <h3>Casey Keelen</h3>
-                    <h6>Agnetha - Frozen</h6>
-                    <p>Casey Keelen is a 2007 graduate of the Professional Actor Training Program at 
-                        Chattanooga State Community College. She has earned a Bachelor’s Degree in Mass 
-                        Communications from UTC. Casey has enjoyed theatre for many years, as an actor, 
-                        stage manager, director, and much more. She has had the privilege of playing some 
-                        amazing roles, including Helen in Fat Pig, Faith in Columbinus, and Wife in The 
-                        Christians. She would like to thank her family, friends, and ETC family for their 
-                        love and support.</p>
-                </div>
-                <div className= 'Blue JosephWatts'></div>
-                <div className= 'Black'>
                     <h3>Joseph Watts</h3>
                     <h6>Male Ensemble - Love, Repeating</h6>
                     <p>Joseph Watts is excited to being a part of ETC’s season. Having previously partook 
@@ -78,8 +119,8 @@ const Ensemble=()=>{
                         well-known and lesser appreciated works. He thanks you for supporting the arts and 
                         hopes you attend Chattanooga theatre across the area.</p>
                 </div>
-                <div className= 'Blue RedWyatt'></div>
-                <div className= 'Black'>
+            <div className= 'Blue RedWyatt'></div>
+            <div className= 'Black'>
                     <h3>Eric "Red" Wyatt</h3>
                     <h6>Ralph - Frozen</h6>
                     <p>Eric, also known as “Red” is has been active in theatre since 2011 and is a 

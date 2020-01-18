@@ -39,15 +39,26 @@ border:5px solid purple;}
 }
 .MariannaAllen{
     background-image:url("https://i.imgur.com/qvspx2X.jpg");
-    /* background-position:top; */
+}
+.CodyKeown{
+    background-image:url("https://i.imgur.com/vgNAmoR.jpg");
 }
 .CaseyKeelen{
     background-image:url("https://i.imgur.com/5DILR57.jpg");
     background-position:top;
 }
+.KashunParks{
+    background-image:url("https://i.imgur.com/Jb9tMaw.jpg");
+    background-position-y:-100px;
+}
 .JosephWatts{
     background-image:url("https://i.imgur.com/G5mrsHA.jpg");
 }
+.MichaelMyers{
+    background-image:url("https://i.imgur.com/KIH6ilr.jpg");
+    background-position-y:-100px;
+}
+
 .Black{
     width: 50%;
     height: 500px;
@@ -78,7 +89,4 @@ border:5px solid purple;}
 }
 .Black i:hover {
     opacity: 0.5;
-}
-.p.a{
-
 }
