@@ -21,7 +21,18 @@ const Ensemble=()=>{
                         Training Program at Chattanooga State Community College. She holds a Bachelor of 
                         Arts in Music from Lawrence University and a Master of Arts in Arts Administration 
                         from Florida State University.</p>
-                </div> */}
+                </div>
+            <div className= 'Blue AustinCampbell'></div>
+            <div className= 'Black'>
+                    <h3>Austin Campbell</h3>
+                    <h6>Balladeer, etc - Assassins</h6>
+                    <p>Austin is a third-year English Literature major at Lee University, and he has been 
+                        doing theater as a hobby for about 8 years. Throughout his theater career, his parents 
+                        Tim and Theresa have been his closest supporters, and he loves and thanks them for their 
+                        support. Finally, Austin believes in the transformative and edifying power of art and 
+                        imagination. As such, he hopes people who see Assassins appreciate it both for its 
+                        entertainment value and for its depth of emotional and intellectual meaning.</p>
+                </div>
             <div className= 'Blue CourtenayCholovich'></div>
             <div className= 'Black'>
                     <h3>Courtenay Cholovich</h3>
@@ -96,6 +107,18 @@ const Ensemble=()=>{
                         Amazonian in Sideshow. She is forever grateful to Marvin, Mikel, Imari, and Makori 
                         for supporting her dreams.</p>
                 </div>
+            <div className= 'Blue AndrewSteele'></div>
+            <div className= 'Black'>
+                    <h3>Andrew Steele</h3>
+                    <h6>John Wilkes Booth, etc - Assassins</h6>
+                    <h6>Father - Eurydice</h6>
+                    <p>Andrew Steele has been acting in one form or another for most of the 37 years he’s been 
+                        alive. In the 200 years before that, he was a smithy in the village of Smurfington, and 
+                        a bard in the village of Skyrim. He has a space reserved in Vault  57, should you need to 
+                        find him in the event of nuclear apocalypse. Andrew enjoys writing, whittling, web app 
+                        development, and whatever other ridiculous things to do that he can find. He is occasionally 
+                        accompanied in these misadventures by his wife, his two girls, and his two boys.</p>
+                </div>
             <div className= 'Blue KatieWarren'></div>
             <div className= 'Black'>
                     <h3>Katie Warren</h3>
@@ -118,6 +141,17 @@ const Ensemble=()=>{
                         to advance the theatre community with bold choices and creative exploration of both 
                         well-known and lesser appreciated works. He thanks you for supporting the arts and 
                         hopes you attend Chattanooga theatre across the area.</p>
+                </div>
+            <div className= 'Blue AlyssaWhitesell'></div>
+            <div className= 'Black'>
+                    <h3>Alyssa Whitesell</h3>
+                    <h6>Lynette "Squeaky" Fromme, etc - Assassins</h6>
+                    <p>Alyssa Whitesell is proud to be in another ETC season. Her previous credits with 
+                        ETC have been in Side Show, A Kiss for Cinderella, and Billy Elliot. Previously 
+                        appearing in many productions in the Chattanooga area, she feels truly at home under 
+                        the leadership of ETC. Her experiences at ETC have been nothing but professional, 
+                        worthwhile, and fulfilling. She thanks you for continuing to support the arts in 
+                        Chattanooga.</p>
                 </div>
             <div className= 'Blue RedWyatt'></div>
             <div className= 'Black'>
