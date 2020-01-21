@@ -33,6 +33,23 @@ const Ensemble=()=>{
                         imagination. As such, he hopes people who see Assassins appreciate it both for its 
                         entertainment value and for its depth of emotional and intellectual meaning.</p>
                 </div>
+            <div className= 'Blue ZackCaywood'></div>
+            <div className= 'Black'>
+                    <h3>Zack Caywood</h3>
+                    <h6>Charles Gateau, etc - Assassins</h6>
+                    <p>Zack is from Cleveland, Tennessee. This is Zack’s second production in the Chattanooga 
+                        theatre community and he’s blessed to be a part of such an amazingly talented cast. 
+                        Zack’s most recent production was She Loves Me at The Colonnade, where he was the Dance 
+                        Captain for the musical and where he played Keller/Busboy. In high school, Zack was heavily 
+                        involved in the Theatre and Show Choir program, receiving manyhonors and accolades. Zack’s 
+                        most memorable roles from high school are Man In The Chair from The Drowsy Chaperone, Chad 
+                        from Disaster! The Musical, and Artie from A Friend Like Artie. Zack would like to thank all 
+                        of his friends, family, and previous teachers for always supporting him and helping him 
+                        follow his dreams. Follow Zach on Instagram @_zack.caywood_.</p>
+                        <a
+              href='https://www.instagram.com/_zack.caywood_/'>
+                        <i class='fab fa-instagram'></i></a>
+                </div>
             <div className= 'Blue CourtenayCholovich'></div>
             <div className= 'Black'>
                     <h3>Courtenay Cholovich</h3>
