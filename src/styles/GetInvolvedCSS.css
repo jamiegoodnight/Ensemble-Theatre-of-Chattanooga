@@ -36,6 +36,12 @@
   background-size: cover;
 }
 
+@media (max-width: 550px) {
+  .auditions-image {
+    background-position: 50% 50%;
+  }
+}
+
 .designing-image {
   overflow: hidden;
   background-image: url('https://i.imgur.com/gjdPA3h.jpg');
@@ -216,6 +222,12 @@
   margin-bottom: 20px;
 }
 
+@media (max-width: 500px) {
+  .auditions-text h1 {
+    font-size: 5rem;
+  }
+}
+
 .auditions-text h2 {
   font-family: 'Open Sans', sans-serif;
   line-height: 2.5rem;
@@ -233,6 +245,12 @@
   font-size: 7rem;
   font-weight: bold;
   margin-bottom: 20px;
+}
+
+@media (max-width: 500px) {
+  .designing-text h1 {
+    font-size: 5rem;
+  }
 }
 
 .designing-text h2 {
@@ -254,6 +272,12 @@
   margin-bottom: 20px;
 }
 
+@media (max-width: 500px) {
+  .directing-text h1 {
+    font-size: 5rem;
+  }
+}
+
 .directing-text h2 {
   font-family: 'Open Sans', sans-serif;
   line-height: 2.5rem;
@@ -271,6 +295,12 @@
   font-size: 7rem;
   font-weight: bold;
   margin-bottom: 20px;
+}
+
+@media (max-width: 500px) {
+  .volunteering-text h1 {
+    font-size: 5rem;
+  }
 }
 
 .volunteering-text h2 {
