@@ -17,7 +17,7 @@
   animation: slide-in-top 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
 
-@media (max-width: 1110px) {
+@media (max-width: 1000px) {
   .mask {
     width: 50px;
     height: 50px;
@@ -67,7 +67,7 @@
   justify-content: space-between;
 }
 
-@media (max-width: 1110px) {
+@media (max-width: 1000px) {
   .main-navigation {
     display: none;
   }
@@ -101,6 +101,12 @@
   text-decoration: none;
 }
 
+.a-cur-show {
+  width: 200px;
+  margin-right: 20px;
+  height: 75px;
+}
+
 .navigation-items h3 {
   color: black;
   font-family: 'Lato', sans-serif;
@@ -125,7 +131,7 @@
   display: none;
 }
 
-@media (max-width: 1110px) {
+@media (max-width: 1000px) {
   .fa-bars {
     display: block;
     padding-right: 10px;

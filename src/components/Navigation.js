@@ -8,7 +8,7 @@ const Navigation = props => {
   };
   return (
     <>
-      <img className='mask' src='https://i.imgur.com/HSJ5XRp.jpg' />
+      <img className='mask' src='https://i.imgur.com/HSJ5XRp.jpg' alt='ETC mask logo' />
       <div className='nav-wrapper'>
         <i
           onClick={() => activate()}
@@ -17,10 +17,12 @@ const Navigation = props => {
         ></i>
         <div className='main-navigation'>
           <div className='navigation-items'>
+            <a className='a-cur-show' href="https://www.artful.ly/store/events/19824" target="_blank" rel='noopener noreferrer'>
             <div className='current-show'>
               <h2>ASSASSINS</h2>
-              <p>FEB 5 - FEB 21</p>
+              <p>FEB 14 - FEB 22</p>
             </div>
+            </a>
             <a href='#Home'>
               <h3>HOME</h3>
             </a>
