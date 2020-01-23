@@ -101,6 +101,12 @@
   text-decoration: none;
 }
 
+.a-cur-show {
+  width: 200px;
+  margin-right: 20px;
+  height: 75px;
+}
+
 .navigation-items h3 {
   color: black;
   font-family: 'Lato', sans-serif;

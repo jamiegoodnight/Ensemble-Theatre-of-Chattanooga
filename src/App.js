@@ -23,7 +23,7 @@ const App = () => {
         <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
           <div className='current-show'>
             <h2>ASSASSINS</h2>
-            <p>FEB 5 - FEB 21</p>
+            <p>FEB 14 - FEB 22</p>
           </div>
           <a href='#Home' onClick={() => setActive(false)}>
             <h3>Home</h3>
