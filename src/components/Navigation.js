@@ -8,7 +8,7 @@ const Navigation = props => {
   };
   return (
     <>
-      <img className='mask' src='https://i.imgur.com/HSJ5XRp.jpg' />
+      <img className='mask' src='https://i.imgur.com/HSJ5XRp.jpg' alt='ETC mask logo' />
       <div className='nav-wrapper'>
         <i
           onClick={() => activate()}
