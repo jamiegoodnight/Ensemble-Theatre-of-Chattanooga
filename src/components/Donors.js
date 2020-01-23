@@ -22,7 +22,7 @@ const Donors = () => {
             </p>
           </div>
         </div>
-        <div className='dn-box'>
+        <div className='dn-box bruce-box'>
           <div className='dn-inner-box dn-box-2'>
             <div className='circle bruce'></div>
             <h4>The Bruce Shaw Level</h4>
@@ -36,7 +36,7 @@ const Donors = () => {
             </p>
           </div>
         </div>
-        <div className='dn-box dn-box-2'>
+        <div className='dn-box dn-box-2 rob-box'>
           <div className='dn-inner-box dn-box-3'>
             <div className='circle robbye'></div>
             <h4>The Robbye Lewis Level</h4>
