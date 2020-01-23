@@ -21,10 +21,12 @@ const App = () => {
       <div className='constrainer'>
         <Navigation active={active} setActive={setActive} />
         <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
+          <a className='a-cur-show-mobile' href="https://www.artful.ly/store/events/19824" target="_blank" rel='noopener noreferrer'>
           <div className='current-show'>
             <h2>ASSASSINS</h2>
             <p>FEB 14 - FEB 22</p>
           </div>
+          </a>
           <a href='#Home' onClick={() => setActive(false)}>
             <h3>Home</h3>
           </a>
