@@ -40,8 +40,8 @@ const GetInvolved = () => {
             <h1>DESIGN</h1>
             <h2>
               Make cool stuff for us! Good design can transport audiences (and
-              actors!) to old Georgia manor houses, cramped apartments, and
-              bloody battlefields. Watch this space to find out when we're
+              actors) to Georgia manor houses, dingy apartments, and
+              medieval battlefields. Watch this space to find out when we're
               looking for designers or email us if you've got good ideas and
               need a stage to use 'em.
             </h2>
