@@ -17,7 +17,7 @@ const Executive = () => {
           </p>
           <p>-</p>
           <p>
-            Garry Lee Posey | John Thomas McCecil | Christy Tipton | Joel
+           Core Ensemble &#8226; Garry Lee Posey | John Thomas McCecil | Christy Tipton | Joel
             Sanchez-Avantez | Kyle Coplen | Eric 'Red' Wyatt
           </p>
         </div>

@@ -55,7 +55,7 @@ const Donors = () => {
             <p>Judith DeWitt | Vivian & Martin Hershey</p>
           </div>
         </div>
-        <div className='dn-box dn-box-2 founders-box'>
+        <div className='dn-box dn-box-2 founders-box f-box'>
           <div className='dn-inner-box'>
             <div className='circle founders'></div>
             <h4>The Founders Level</h4>
@@ -66,25 +66,25 @@ const Donors = () => {
             </p>
           </div>
         </div>
-        <div className='dn-box dn-box-2 founders-box'>
+        <div className='dn-box dn-box-2 founders-box buck-box'>
           <div className='dn-inner-box'>
             <div className='circle starbucks'></div>
             <h4>Starbucks Foundation</h4>
           </div>
         </div>
-        <div className='dn-box dn-box-2 founders-box'>
+        <div className='dn-box dn-box-2 founders-box un-box'>
           <div className='dn-inner-box'>
             <div className='circle unum'></div>
             <h4>Unum Foundation</h4>
           </div>
         </div>
-        <div className='dn-box dn-box-2 founders-box'>
+        <div className='dn-box dn-box-2 founders-box cig-box'>
           <div className='dn-inner-box'>
             <div className='circle cigna'></div>
             <h4>Cigna Foundation</h4>
           </div>
         </div>
-        <div className='dn-box dn-box-2 founders-box'>
+        <div className='dn-box dn-box-2 founders-box com-box'>
           <div className='dn-inner-box'>
             <div className='circle partners'></div>
             <h4>Community Partners</h4>
