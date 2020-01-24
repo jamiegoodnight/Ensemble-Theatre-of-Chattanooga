@@ -16,7 +16,7 @@ const Executive = () => {
           <p>
             Without our core ensemble of artists there wouldn't be an ETC!
             They're actors, designers, directors, stage managers, and everything
-            else we need them to be. From time to time, we also invite guest
+            else we need them to be. From time to time we also invite guest
             artists to perform with us.
           </p>
           <p>-</p>
