@@ -267,17 +267,13 @@
   .bruce-box {
     margin-top: 160px;
   }
-}
 
-@media (max-width: 351px){
   .rob-box {
-    margin-top: 70px;
+    margin-top: 90px;
   }
-}
 
-@media (max-width: 347px){
-  .bruce-box {
-    margin-top: 140px;
+  .battersby-box {
+    margin-top: 60px;
   }
 
   .buck-box {
@@ -285,8 +281,20 @@
   }
 }
 
+@media (max-width: 351px){
+  .rob-box {
+    margin-top: 110px;
+  }
+}
+
+@media (max-width: 347px){
+  .bruce-box {
+    margin-top: 190px;
+  }
+}
+
 @media (max-width: 323px){
   .bruce-box {
-    margin-top: 160px;
+    margin-top: 220px;
   }
 }
