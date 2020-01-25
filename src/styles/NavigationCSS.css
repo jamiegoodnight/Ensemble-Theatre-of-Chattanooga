@@ -77,16 +77,32 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-right: -20px;
+}
+
+.cur-show-inner {
+  display:flex;
 }
 
 .current-show h2 {
-  font-size: 5rem;
+  /* font-size: 5rem; */
+  font-size: 3rem;
   font-family: 'Fjalla One', sans-serif;
   color: red;
+  margin-top: 10px;
+}
+
+.cur-show-inner .fa-ticket-alt {
+  color: black;
+  font-size: 1.7rem;
+  margin-top: 2px;
+  margin-left: 6px;
 }
 
 .current-show p {
-  font-size: 2rem;
+  /* font-size: 2rem; */
+  font-size: 1.7rem;
+  font-weight: bold;
   color: black;
   font-family: 'Lato', sans-serif;
 }
@@ -110,11 +126,13 @@
 .navigation-items h3 {
   color: black;
   font-family: 'Lato', sans-serif;
-  font-size: 1.8rem;
+  /* font-size: 1.8rem; */
+  font-size: 1.5rem;
   font-weight: bold;
-  margin-top: 15px;
+  /* margin-top: 15px; */
+  margin-top: 25px;
   margin-bottom: 40px;
-  margin-left: 3%;
+  /* margin-left: 3%; */
   transition: 0.2s;
 }
 
@@ -148,4 +166,8 @@
     font-size: 3rem;
     margin-top: 10px;
   }
+}
+
+.about-nav {
+  margin-left: -20px;
 }
