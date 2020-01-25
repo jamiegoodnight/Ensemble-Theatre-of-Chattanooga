@@ -200,19 +200,19 @@ h3 {
   color: red;
 }
 
-@media(max-width: 500px){ 
+@media(max-width: 400px){ 
   .mobile-nav a h3:hover {
   color: green;
   }
 }
 
-@media(max-width: 450px){ 
+@media(max-width: 375px){ 
   .mobile-nav a h3:hover {
   color: blue;
   }
 }
 
-@media(max-width: 400px){ 
+@media(max-width: 360px){ 
   .mobile-nav a h3:hover {
   color: yellow;
   }
