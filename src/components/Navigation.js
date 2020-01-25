@@ -20,14 +20,17 @@ const Navigation = props => {
             <a className='a-cur-show' href="https://www.artful.ly/store/events/19824" target="_blank" rel='noopener noreferrer'>
             <div className='current-show'>
               <h2>ASSASSINS</h2>
-              <p>FEB 14 - FEB 22</p>
+              <div className='cur-show-inner'>
+              <p>FEB 14 - FEB 22 &#8226;</p>
+              <i className="fas fa-ticket-alt"></i>
+              </div>
             </div>
             </a>
             <a href='#Home'>
               <h3>HOME</h3>
             </a>
             <a href='#About'>
-              <h3>ABOUT</h3>
+              <h3 className='about-nav'>ABOUT</h3>
             </a>
             <a href='#Get-Involved'>
               <h3>GET INVOLVED</h3>
