@@ -118,6 +118,12 @@
   margin-right: 10%;
 }
 
+@media(max-width: 400px){
+  .show-two p {
+    margin-top: 180px;
+  }
+}
+
 .show-two h3 {
   font-family: 'Special Elite', cursive;
   font-size: 6rem;
@@ -125,6 +131,12 @@
   color: #0068a9;
   font-weight: bold;
   margin-right: 10%;
+}
+
+@media(max-width: 400px){
+  .show-two h3 {
+    font-size: 5rem;
+  }
 }
 
 .show-wrapper-three {
@@ -246,6 +258,12 @@
   padding-top: 10px;
 }
 
+@media(max-width: 400px){
+  .show-five p {
+    font-size: 1.8rem;
+  }
+}
+
 .show-five h3 {
   font-family: 'Oswald', sans-serif;
   padding-top: 390px;
@@ -286,6 +304,7 @@
   padding-left: 45%;
 }
 
+
 @media (max-width: 370px) {
   .six-box {
     text-align: left;
@@ -302,3 +321,10 @@
 .show-six p {
   margin-bottom: 10px;
 }
+
+@media(max-width: 400px){
+  .show-six p {
+    font-size: 1.8rem;
+  }
+}
+
