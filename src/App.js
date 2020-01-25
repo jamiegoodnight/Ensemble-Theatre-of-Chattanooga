@@ -24,7 +24,11 @@ const App = () => {
           <a className='a-cur-show-mobile' href="https://www.artful.ly/store/events/19824" target="_blank" rel='noopener noreferrer'>
           <div className='current-show'>
             <h2>ASSASSINS</h2>
-            <p>FEB 14 - FEB 22</p>
+            {/* <p>FEB 14 - FEB 22</p> */}
+            <div className='cur-show-inner'>
+              <p>FEB 14 - FEB 22 &#8226;</p>
+              <i className="fas fa-ticket-alt"></i>
+            </div>
           </div>
           </a>
           <a href='#Home' onClick={() => setActive(false)}>
