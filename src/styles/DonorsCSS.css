@@ -263,6 +263,12 @@
   }
 }
 
+@media (max-width: 360px){
+  .bruce-box {
+    margin-top: 30px;
+  }
+}
+
 @media (max-width: 351px){
   .rob-box {
     margin-top: 70px;
