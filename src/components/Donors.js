@@ -11,7 +11,7 @@ const Donors = () => {
             <div className='circle jordan'></div>
             <h4>The Jordan Guess Level</h4>
             <p>
-              Casey Keelen | Jimmy Overholt | SWHandi Warnix | Cory Keelen |
+              Casey Keelen | Jimmy Overholt | Shandi Warnix | Cory Keelen |
               Christopher Wagner | Laurie Shaw | Kim Davis | Ralph Wiseman |
               Katie Lanning | Sara Lee | Kyle Miklk | Eric Brown | Robert Gaines
               | Verna Bible | Petet Traynor | Alicia Shoop | Andy Balogh |
@@ -60,7 +60,7 @@ const Donors = () => {
             <div className='circle founders'></div>
             <h4>The Founders Level</h4>
             <p>
-              John Thomas McCecil | Garry Lee Posey | Courtney Cholovickn
+              John Thomas McCecil | Garry Lee Posey |  Courtenay Cholovich
               Birthday Fundraiser | Kashun Parks | Mark and Pam Bracher | Betsy
               Laskowski
             </p>

@@ -28,8 +28,8 @@ const Executive = () => {
             | Normand Caissie | Fallon Garret | Guest Ensemble &#8226; Jordan
             Bennet | Zack Caywood | Austin Campbell | Casey Keelen | Julia Wyant
             | Bonnie Stoloff | Alex Walker | Will Park | Chris Cooper | Sonibert
-            Wood | Ashley Burkhart | Courtney Cholovick | Autumn Allison |
-            Joseph Watts
+            Wood | Ashley Burkhart | Courtenay Cholovich | Autumn Allison | 
+            Joseph Watts | Gabriel Hubbard
           </p>
         </div>
       </div>
