@@ -25,6 +25,13 @@
 @media (max-width: 400px) {
   .dn-box-container {
     width: 100%;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 330px) {
+  .dn-box-container {
+    margin-top: 40px;
   }
 }
 
@@ -225,7 +232,7 @@
   }
 
   .f-box {
-    margin-top: -30px;
+    margin-top: -20px;
   }
 
   .buck-box {
