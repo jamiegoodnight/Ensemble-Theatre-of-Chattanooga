@@ -33,7 +33,7 @@ const Footer = () => {
               <i class='fab fa-twitter'></i>
             </a>
             <a
-              href='https://www.instagram.com/ensembletheatreofchattanooga/'
+              href='https://www.instagram.com/ensemble_theatre_of_chatt/'
               target='_blank'
               rel='noopener noreferrer'
             >
