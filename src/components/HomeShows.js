@@ -51,7 +51,7 @@ const HomeShows = () => {
         <div className='show-wrapper-six'>
           <div className='show-six pointer'>
             <div className='six-box'>
-              <p>Christy Tipton as Keely</p>
+              <p>Christy Gallo as Keely</p>
               <p>Kitty Reel as Du</p>
               <h3>KEELY AND DU</h3>
             </div>

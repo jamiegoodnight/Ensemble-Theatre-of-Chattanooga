@@ -12,12 +12,12 @@ const Executive = () => {
           <h3 className='text-h3'>Running the show</h3>
           <p>
             ETC's executive ensemble produces all of our shows. Garry Lee Posey
-            founded ETC with John Thomas McCecil and Christy Tipton in 2007 and
+            founded ETC with John Thomas McCecil and Christy Gallo in 2007 and
             since then the executive ensemble has continued to grow!
           </p>
           <p>-</p>
           <p>
-           Executive Ensemble &#8226; Garry Lee Posey | John Thomas McCecil | Christy Tipton | Joel
+           Executive Ensemble &#8226; Garry Lee Posey | John Thomas McCecil | Christy Gallo | Joel
             Sanchez-Avantez | Kyle Coplen | Eric 'Red' Wyatt
           </p>
         </div>
