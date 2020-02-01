@@ -22,6 +22,18 @@ const Ensemble=()=>{
                         Arts in Music from Lawrence University and a Master of Arts in Arts Administration 
                         from Florida State University.</p>
                 </div>
+            <div className= 'Blue JordanBennett'></div>
+            <div className= 'Black'>
+                    <h3>Jorden Bennett</h3>
+                    <h6>Sara Jane Moore, etc - Assassins</h6>
+                    <p>Jordan is very excited to be a part of ETC’s 2020 season. She was last seen in 
+                        Urinetown, and in Billy Elliot last season. Jordan has been seen on multiple stages 
+                        throughout the Chattanooga area. She had been performing since 2014, and she doesn’t 
+                        plan on stopping anytime soon. Other productions she has been seen in include Into the 
+                        Woods as The Witch, Narnia the Musical as The White Witch, and James and the Giant Peach 
+                        as Aunt Sponge. Jordan hopes that you come see all of the shows this season, including 
+                        Assassins, in which she will be playing Sara Jane Moore, and others.</p>
+            </div>
             <div className= 'Blue AustinCampbell'></div>
             <div className= 'Black'>
                     <h3>Austin Campbell</h3>
@@ -70,6 +82,28 @@ const Ensemble=()=>{
                          advocate.</p>
                          <a href="http://www.cholovich.com">
                     <i class="far fa-address-card"></i></a>
+                </div>
+            <div className= 'Blue JoshGarcia'></div>
+            <div className= 'Black'>
+                    <h3>Josh Garcia</h3>
+                    <h6>Samuel Byck, etc - Assassins</h6>
+                    <h6>Wolf - The Wolf in the River</h6>
+                    <p>Josh Garcia has acted in many local productions, but Assassins marks his first one 
+                        with the Ensemble Theatre of Chattanooga. Assassins is also his first musical. When 
+                        he's not acting, Josh provides music and sound design for his friends' film and 
+                        stage projects.</p>
+                </div>
+            <div className= 'Blue GabrielHubbard'></div>
+            <div className= 'Black'>
+                    <h3>Gabriel Hubbard</h3>
+                    <h6>Guiseppe Zangarra, etc​ - Assassins</h6>
+                    <p>Christian is a native of East Ridge after moving from his hometown of Trenton, GA. 
+                        He is currently employed as an electrical engineer for Mesa Associates, Inc. in 
+                        downtown Chattanooga. His recent credits include Picasso at the Lapin Agile as A 
+                        Visitor (Ringgold Playhouse, 2019), The Pirates of Penzance as Frederic (EBCT, 2019), 
+                        and Avenue Q as Princeton (Chattanooga Theatre Centre, 2019). He is excited to perform 
+                        in such an irreverent and off-beat show with a cast that is just as irreverent and 
+                        off-beat in the best way possible. Enjoy the show!</p>
                 </div>
             <div className= 'Blue CaseyKeelen'></div>
             <div className= 'Black'>
@@ -123,6 +157,36 @@ const Ensemble=()=>{
                         The Curious Incident of the Dog in the Nighttime. Tituba in The Crucible, and the 
                         Amazonian in Sideshow. She is forever grateful to Marvin, Mikel, Imari, and Makori 
                         for supporting her dreams.</p>
+                </div>
+            <div className= 'Blue TerrySanford'></div>
+            <div className= 'Black'>
+                    <h3>Terry Sanford</h3>
+                    <h6>Music Director - Assassins</h6>
+                    <h6>Music Director - Bridges of Madison County</h6>
+                    <p>Terry is thriled to return to ETC again this year as Musical Director for Assassins 
+                        and Bridges of Madison County. Terry Sanford is well known in the Chattanooga area 
+                        as a teacher, pianist, musical director, and vocal coach. His musical director credits 
+                        include Les Miserables, Titanic the Musical, Children of Eden, Next to Normal, The 
+                        Hunchback of Notre Dame, Songs for a New World, and Man of La Mancha, and Side Show. 
+                        Thanks to Garry Posey for inviting me back again this season. Thanks to the cast and 
+                        band for letting me do what I love best!</p>
+                </div>
+            <div className= 'Blue BruceShaw'></div>
+            <div className= 'Black'>
+                    <h3>Bruce Shaw</h3>
+                    <h6>Director - Frozen</h6>
+                    <p>Bruce Shaw is a lifelong performing arts professional and avocational. Having acted with 
+                        the Ensemble Theatre of Chattanooga under Artistic Director Garry Lee Posey in multiple 
+                        productions since 2012, he is excited to take on the challenge of directing Bryony Lavery’s 
+                        drama “Frozen” in ETC’s 2020 season. Bruce is a 2018 magna cum laude graduate of the University 
+                        of Tennessee at Chattanooga in Theatre and Communication.</p>
+                    <p>One of Bruce’s Mocs News pieces produced under Communication’s Prof. Mike Andrews received the 2018 
+                        Tennessee Collegiate Associated Press award for In-Depth/Investigative Reporting. You can view it by clicking the icon below.</p>
+                    <a href='https://youtu.be/jY3Br-oqI1s'
+              target='_blank'
+              rel='noopener noreferrer'>
+              <i class='fab fa-youtube'></i>
+            </a>
                 </div>
             <div className= 'Blue AndrewSteele'></div>
             <div className= 'Black'>

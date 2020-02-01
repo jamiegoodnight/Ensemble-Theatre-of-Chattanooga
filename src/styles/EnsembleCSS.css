@@ -67,6 +67,21 @@ border:5px solid purple;}
 .ZackCaywood{
     background-image:url("https://i.imgur.com/XeYdq13.jpg")
 }
+.GabrielHubbard{
+    background-image:url("https://i.imgur.com/VY5ST1o.png")
+}
+.JordanBennett{
+    background-image:url("https://i.imgur.com/8lwE65j.jpg")
+}
+.JoshGarcia{
+    background-image:url("https://i.imgur.com/DhUidpV.jpg")
+}
+.TerrySanford{
+    background-image:url("https://i.imgur.com/YbSbR2b.jpg")
+}
+.BruceShaw{
+    background-image:url("https://i.imgur.com/cUDFWow.jpg")
+}
 
 .Black{
     width: 50%;
@@ -98,4 +113,5 @@ border:5px solid purple;}
 }
 .Black i:hover {
     opacity: 0.5;
+    transition: 0.5s;
 }

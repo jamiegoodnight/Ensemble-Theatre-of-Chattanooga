@@ -9,6 +9,7 @@ import Media from './screens/Media';
 import Community from './screens/Community';
 import Footer from './components/Footer';
 import Ensemble from './components/Ensemble';
+import Staff from './components/Staff';
 
 import './App.css';
 
@@ -18,12 +19,13 @@ const App = () => {
       <header className='App-header'></header>
       <div className='constrainer'>
         <Navigation />
-        <Ensemble></Ensemble>
-              {/* <Home></Home>
+        {/* <Staff></Staff> */}
+        {<Ensemble></Ensemble>
+             /* <Home></Home>
         <About></About>
         <Community></Community>
-        <GetInvolved></GetInvolved> */}
-        {/* <Community></Community> */}
+        <GetInvolved></GetInvolved>
+        <Community></Community> */}
         <Footer></Footer>
       </div>
     </div>
