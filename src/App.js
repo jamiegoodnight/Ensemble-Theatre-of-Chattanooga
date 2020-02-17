@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Navigation from './components/Navigation';
 import Home from './screens/Home';
+import Now from './components/Now';
 import About from './screens/About';
 import GetInvolved from './screens/GetInvolved';
 import Media from './screens/Media';
@@ -44,6 +45,7 @@ const App = () => {
         {/* <div className={active === true ? 'desktop-nav' : 'display'}> */}
         <div>
           <Home></Home>
+          <Now></Now>
           <About></About>
           <Community></Community>
           <GetInvolved></GetInvolved>
