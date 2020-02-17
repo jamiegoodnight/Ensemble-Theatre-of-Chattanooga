@@ -4,6 +4,7 @@ import NowCSS from '../styles/NowCSS.css';
 
 const Now = () => {
   return (
+    <>
     <div className='now-wrapper'>
       <div className='now-img'></div>
       <div className='now-text'>
@@ -13,6 +14,8 @@ const Now = () => {
         <p>James Ogden will make his directorial debut with Ensemble Theatre of Chattanooga having appeared last year in SIDE SHOW and THE CHRISTIANS.  The rest of the cast includes newcomers Andrew Steele, Josh Garcia, Christian Smith, Gabriel Hubbard, Zack Caywood, Austin Campbell and Michael Myers.  They are joined by ETC veterans Jordan Bennet, Alyssa Whitesell, and Cody Keown. Music Direction is provided by Terry Sanford and Stage Manager is Joel Sanchez-Avantes.</p>
       </div>
     </div>
+    <div className='divider'></div>
+    </>
   );
 };
 
