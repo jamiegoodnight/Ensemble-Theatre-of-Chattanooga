@@ -1,6 +1,7 @@
 .home-wrapper {
   display: flex;
   justify-content: center;
+  /* border: 2px solid red; */
 }
 
 .cta {
@@ -8,6 +9,7 @@
   justify-content: center;
   align-items: center;
   width: 80%;
+  /* border: 2px solid black; */
 }
 
 .logo-wrapper {
@@ -17,10 +19,12 @@
   margin-top: 100px;
   margin-bottom: 50px;
   background-image: url('https://i.imgur.com/fkpy7aF.png');
+  /* background-image: url('https://i.imgur.com/L0HVDm1.png'); */
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50% 50%;
   animation: fade-in 2s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+  /* border: 2px solid green; */
 }
 
 @media (max-width: 600px) {
