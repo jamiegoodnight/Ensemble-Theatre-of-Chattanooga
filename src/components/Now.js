@@ -8,10 +8,10 @@ const Now = () => {
     <div className='now-wrapper'>
       <div className='now-img'></div>
       <div className='now-text'>
-        <h2>ASSASSINS</h2>
-        <h3>by Stephen Sondheim and John Weidman</h3>
-        <p>Kicking off its 2020 season, the Ensemble Theatre of Chattanooga will present the musical ASSASSINS by Stephen Sondheim and John Weidman.  This politically charged concept musical takes both a historical and philosophical look at the nine presidential assassins, imagining a world where they intermingle and discuss their significance.</p>
-        <p>James Ogden will make his directorial debut with Ensemble Theatre of Chattanooga having appeared last year in SIDE SHOW and THE CHRISTIANS.  The rest of the cast includes newcomers Andrew Steele, Josh Garcia, Christian Smith, Gabriel Hubbard, Zack Caywood, Austin Campbell and Michael Myers.  They are joined by ETC veterans Jordan Bennet, Alyssa Whitesell, and Cody Keown. Music Direction is provided by Terry Sanford and Stage Manager is Joel Sanchez-Avantes.</p>
+        <h2>FROZEN</h2>
+        <h3>by Bryony Lavery</h3>
+        <p>The Ensemble Theatre of Chattanooga next presents the award-winning play FROZEN by Bryony Lavery. "One evening ten-year old Rhona goes missing. As her mother retreats into a state of frozen hope, a psychologist studies the brain of a serial killer to find out if what he does is pure evil or simply beyond his control. Drawn together by horrific circumstances, these three embark on a long, dark journey that ends in the discovery of a common humanity." </p>
+        <p>Directed by Ensemble Theatre of Chattanooga veteran Bruce Shaw. The cast includes Casey Keelen, Anne Swedburg, and Eric "Red" Wyatt. Don't forget to follow us on Facebook, Twitter, and Instagram for more updates.</p>
       </div>
     </div>
     <div className='divider'></div>
