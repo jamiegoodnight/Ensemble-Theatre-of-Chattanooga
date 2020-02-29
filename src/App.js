@@ -22,12 +22,12 @@ const App = () => {
       <div className='constrainer'>
         <Navigation active={active} setActive={setActive} />
         <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
-          <a className='a-cur-show-mobile' href="https://www.artful.ly/store/events/19824" target="_blank" rel='noopener noreferrer'>
+          <a className='a-cur-show-mobile' href="https://www.artful.ly/ensemble-theatre-of-chattanooga/store/events/19935" target="_blank" rel='noopener noreferrer'>
           <div className='current-show'>
-            <h2>ASSASSINS</h2>
+            <h2>FROZEN</h2>
             {/* <p>FEB 14 - FEB 22</p> */}
             <div className='cur-show-inner'>
-              <p>FEB 14 - FEB 22 &#8226;</p>
+              <p>APR 10 - APR 18 &#8226;</p>
               <i className="fas fa-ticket-alt"></i>
             </div>
           </div>
