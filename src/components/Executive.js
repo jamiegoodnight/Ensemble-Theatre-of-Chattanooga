@@ -18,7 +18,7 @@ const Executive = () => {
           <p>-</p>
           <p>
            Executive Ensemble &#8226; Garry Lee Posey | John Thomas McCecil | Christy Gallo | Joel
-            Sanchez-Avantez | Kyle Coplen | Eric 'Red' Wyatt
+            Sanchez-Avantez | Eric 'Red' Wyatt
           </p>
         </div>
         <div className='exec-bg'></div>
