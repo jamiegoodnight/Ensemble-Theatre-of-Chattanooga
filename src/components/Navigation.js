@@ -17,11 +17,11 @@ const Navigation = props => {
         ></i>
         <div className='main-navigation'>
           <div className='navigation-items'>
-            <a className='a-cur-show' href="https://www.artful.ly/store/events/19824" target="_blank" rel='noopener noreferrer'>
+            <a className='a-cur-show' href="https://www.artful.ly/ensemble-theatre-of-chattanooga/store/events/19935" target="_blank" rel='noopener noreferrer'>
             <div className='current-show'>
-              <h2>ASSASSINS</h2>
+              <h2>FROZEN</h2>
               <div className='cur-show-inner'>
-              <p>FEB 14 - FEB 22 &#8226;</p>
+              <p>APRIL 10 - FEB 18 &#8226;</p>
               <i className="fas fa-ticket-alt"></i>
               </div>
             </div>
