@@ -26,7 +26,8 @@ const GetInvolved = () => {
             <Button
               className='btn'
               variant='dark'
-              href='https://drive.google.com/open?id=1JQ3HwfNs6WGLxsm8CIcm19Bkd2X1h3eG'
+              href='https://drive.google.com/file/d/1YmLTcyAu30MweH8uBky_tYP66DjrZZtZ/view?usp=sharing'
+              // href='https://drive.google.com/open?id=1JQ3HwfNs6WGLxsm8CIcm19Bkd2X1h3eG'
               target='_blank'
             >
               <h5>Audition</h5>
