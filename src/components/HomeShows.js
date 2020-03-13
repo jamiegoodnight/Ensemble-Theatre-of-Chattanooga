@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
+import Corona from './Corona'
 import HomeShowsCSS from '../styles/HomeShowsCSS.css';
 
 const HomeShows = () => {
