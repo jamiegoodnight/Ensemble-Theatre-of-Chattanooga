@@ -1,0 +1,12 @@
+.corona-wrapper {
+    margin-top: 100px;
+    width: 100%;
+}
+
+.corona-wrapper p {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2.5rem;
+    font-size: 1.4rem;
+    color: black;
+    text-align: center;
+}
