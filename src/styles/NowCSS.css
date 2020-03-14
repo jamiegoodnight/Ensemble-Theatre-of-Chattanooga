@@ -116,3 +116,7 @@
         display: block;
     }
 }
+
+.now-wrapper .corona-p{
+    color: red;
+}
