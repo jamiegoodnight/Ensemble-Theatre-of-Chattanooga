@@ -1,0 +1,14 @@
+.spec-wrapper {
+    height: 800px;
+    width: 100%;
+    display: flex;
+}
+
+.spec-logo {
+    width: 25%;
+    height: 100%;
+    background-image: url('https://i.imgur.com/pqvYth6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
