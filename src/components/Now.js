@@ -8,12 +8,16 @@ const Now = () => {
     <div className='now-wrapper'>
       <div className='now-img'></div>
       <div className='now-text'>
-        <h2>FROZEN</h2>
-        <h3>by Bryony Lavery</h3>
-        <p>Ensemble Theatre of Chattanooga next presents the award-winning play FROZEN by Bryony Lavery. "One evening ten-year old Rhona goes missing. As her mother retreats into a state of frozen hope, a psychologist studies the brain of a serial killer to find out if what he does is pure evil or simply beyond his control. Drawn together by horrific circumstances, these three embark on a long, dark journey that ends in the discovery of a common humanity." </p>
-        <p>Directed by Ensemble Theatre of Chattanooga veteran Bruce Shaw. Don't forget to follow us on Facebook, Twitter, and Instagram for updates on the cast, crew, and more.</p>
-        <p className='corona-p'>*Ensemble Theatre of Chattanooga cares about the health and safety of our staff, actors, and patrons and your safety is our top priority. In light of recent events and announcements, ETC will be postponing Shades of a Spectrum, the kickoff inaugural production from The Spectrum Playhouse, to a date yet to be determined.
-Currently, there are no other changes to our production schedule. Stay tuned to our website, Facebook and other social media for more information as we have it.</p>
+        <h2>A Message From ETC</h2>
+        <h3>—</h3>
+        <p>Ensemble Theatre of Chattanooga has decided to follow suit with arts organizations nation wide.  As the pandemic unfolds, we believe it necessary for us to do our part in preventing exposure.  With that in mind, FROZEN by Byrony Lavery will not be performed in April at the Barking Legs Theatre.  Those that have already purchased your tickets will be sent an email with the option to request a refund.  It is our intention to try and produce this intense story at some point later in the season, but the details of all of that have yet to be worked out.</p>  
+
+<p>Thankfully, we are not panicked about our survival through this challenging time and we are confident that we will resume producing theatre in the Chattanooga area.  The Executive Team will be meeting again in two weeks to assess the situation and determine our intentions for moving forward with our next scheduled production of BRIDGES OF MADISON COUNTY.  As of now, SHADES OF A SPECTRUM and FROZEN are currently the only productions affected.</p>
+
+<p>In closing, I want to let you know that we are monitoring other organizations and theatrical producers to gain insight and ideas into how we can still provide our services in the current climate while still respecting any mandates put into place regarding social distancing, hygiene and sanitation practices.  Please stay tuned, please stay safe, please stay well and please stay creative.</p>
+
+<p>Sincerely<br></br>
+The Executive Team of the Ensemble Theatre of Chattanooga</p>
       </div>
     </div>
     <div className='divider'></div>
