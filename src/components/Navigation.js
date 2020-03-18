@@ -21,7 +21,7 @@ const Navigation = props => {
             <div className='current-show'>
               <h2>FROZEN</h2>
               <div className='cur-show-inner'>
-              <p>APR 10 - APR 18 &#8226;</p>
+              <p>POSTPONED &#8226;</p>
               <i className="fas fa-ticket-alt"></i>
               </div>
             </div>
