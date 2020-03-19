@@ -7,7 +7,7 @@ import Home from './screens/Home';
 import Now from './components/Now';
 import About from './screens/About';
 import GetInvolved from './screens/GetInvolved';
-import Media from './screens/Media';
+import Spectrum from './components/Spectrum'
 import Community from './screens/Community';
 import Footer from './components/Footer';
 
@@ -46,6 +46,7 @@ const App = () => {
         <div>
           <Home></Home>
           <Now></Now>
+          {/* <Spectrum></Spectrum> */}
           <About></About>
           <Community></Community>
           <GetInvolved></GetInvolved>
