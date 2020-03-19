@@ -7,7 +7,7 @@
 }
 
 .spec-logo {
-    width: 25%;
+    width: 50%;
     height: 100%;
     background-image: url('https://i.imgur.com/pqvYth6.jpg');
     background-repeat: no-repeat;
@@ -16,9 +16,12 @@
 }
 
 .spec-about {
-    width: 25%;
+    width: 50%;
     height: 100%;
     text-align: left;
+    margin-top: 80px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 .spec-title {
@@ -26,6 +29,7 @@
     font-weight: bold;
     font-size: 2rem;
     color: black;
+    margin-bottom: 20px;
   }
 
   .spec-text {
@@ -35,11 +39,40 @@
     color: black;
   }
 
+  .spec-show-wrapper {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+  }
+
   .spec-show-logo {
-    width: 25%;
-    height: 100%;
-    background-image: url('https://i.imgur.com/JhE7sAu.png');
+    width: 100%;
+    height: 50%;
+    background-image: url('https://i.imgur.com/iG1OeBF.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: 50% 50%;
+    margin-bottom: 20px;
+}
+
+.spec-show-about {
+    width: 100%;
+    text-align: left;
+}
+
+.spec-date-wrapper {
+    display: flex;
+    margin-top: 10px;
+}
+
+.spec-ticket {
+    font-size: 2rem;
+    margin-top: 4px;
+    margin-left: 6px;
+}
+
+.date {
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
 }

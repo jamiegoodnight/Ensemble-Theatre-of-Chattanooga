@@ -13,12 +13,19 @@ the performing arts and other forms of therapy into programs that create awarene
 inclusive experiences, and provide opportunities for both the neuro-diverse (autistic) community and
 the neuro-typical (non-autistic) communities.</p>
         </div>
-        <div className='spec-show-logo'></div>
-        <div className='spec-about show'>
-            <h3 className='spec-title show'>Shades of a Spectrum</h3>
-            <p className='spec-text show'> Shades of a Spectrum is a devised theatre piece showcasing the stories of autistic kids, teens, and adults from our region. It is based on a series of interviews with 5 individuals on the autism spectrum ranging in age from 5 to 36. Those interviewed include Noah Phillips, Kennedy Doan, Christopher Brown, AJ Turner and
-Juston Free. The cast also includes Renee Lierow, Laurie Shaw, Melissa Greene, Brooke Lowery McClellan and
-Courtney Cholovich. The production is stage by ETC Creative Director and Founder, Garry Lee Posey. </p>
+        <div className="spec-show-wrapper">
+            <div className='spec-show-logo'></div>
+            <div className='spec-show-about'>
+                <h3 className='spec-title'>Shades of a Spectrum</h3>
+                <p className='spec-text'> Shades of a Spectrum is a devised theatre piece showcasing the stories of autistic kids, teens, and adults from our region. It is based on a series of interviews with 5 individuals on the autism spectrum ranging in age from 5 to 36. Those interviewed include Noah Phillips, Kennedy Doan, Christopher Brown, AJ Turner and
+                    Juston Free. The cast also includes Renee Lierow, Laurie Shaw, Melissa Greene, Brooke Lowery McClellan and
+                    Courtney Cholovich. The production is stage by ETC Creative Director and Founder, Garry Lee Posey.
+                </p>
+                <div className='spec-date-wrapper'>
+                <p className='spec-text date'>POSTPONED &#8226;</p>
+                <i className="fas fa-ticket-alt spec-ticket"></i>
+                </div>
+            </div>
         </div>
     </div>
   );
