@@ -46,11 +46,10 @@ const App = () => {
         <div>
           <Home></Home>
           <Now></Now>
-          {/* <Spectrum></Spectrum> */}
           <About></About>
           <Community></Community>
+          {/* <Spectrum></Spectrum> */}
           <GetInvolved></GetInvolved>
-          {/* <Community></Community> */}
           <Footer></Footer>
         </div>
       </div>
