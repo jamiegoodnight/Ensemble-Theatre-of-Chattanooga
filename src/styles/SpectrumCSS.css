@@ -4,7 +4,43 @@
     display: flex;
     padding-right: 50px;
     padding-left: 50px;
+    margin-bottom: 100px;
 }
+
+@media (max-width: 1110px){
+    .spec-wrapper {
+        height: 1200px;
+        flex-direction: column;
+    }
+}
+
+/* @media (max-width: 580px){
+    .spec-wrapper {
+        height: 1300px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 520px){
+    .spec-wrapper {
+        height: 1400px;
+    }
+} */
+
+/* @media (max-width: 460px){
+    .spec-wrapper {
+        height: 1600px;
+    }
+} */
+
+ @media (max-width: 420px){
+    .spec-wrapper {
+        height: 1600px;
+    }
+}
+
+
 
 .spec-logo {
     width: 50%;
@@ -15,6 +51,13 @@
     background-position: 50% 50%;
 }
 
+@media (max-width: 1110px){
+    .spec-logo {
+        width: 100%;
+        height: 700px;
+    }
+}
+
 .spec-about {
     width: 50%;
     height: 100%;
@@ -22,6 +65,16 @@
     margin-top: 80px;
     margin-right: 50px;
     margin-left: 50px;
+    background-color: white;
+}
+
+@media (max-width: 1110px){
+    .spec-about {
+        width: 100%;
+        height: 70%;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
 }
 
 .spec-title {
@@ -39,12 +92,34 @@
     color: black;
   }
 
+  .spec {
+      margin-bottom: 100px;
+  }
+
   .spec-show-wrapper {
       height: 100%;
       width: 100%;
       display: flex;
       flex-direction: column;
   }
+
+  @media (max-width: 1110px){
+    .spec-show-wrapper {
+        margin-top: -100px;
+    }
+}
+
+@media (max-width: 630px){
+    .spec-show-wrapper {
+        margin-top: -50px;
+    }
+}
+
+/* @media (max-width: 575px){
+    .spec-show-wrapper {
+        margin-top: 0px;
+    }
+} */
 
   .spec-show-logo {
     width: 100%;
@@ -56,9 +131,22 @@
     margin-bottom: 20px;
 }
 
+@media (max-width: 1110px){
+    .spec-show-logo {
+        display: none;
+    }
+}
+
 .spec-show-about {
     width: 100%;
     text-align: left;
+}
+
+@media (max-width: 1110px){
+    .spec-show-about {
+        width: 100%;
+        height: 50%;
+    }
 }
 
 .spec-date-wrapper {
