@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer'>
       <div className='footer-top-wrapper'>
         <div className='footer-top'>
-          <img src='https://i.imgur.com/mxX1gl9.png' />
+          <img src='https://i.imgur.com/mxX1gl9.png' alt='ETC'/>
           <div className='footer-contact'>
             <h4>CONTACT</h4>
             <p>423-987-5141</p>
@@ -23,35 +23,35 @@ const Footer = () => {
               target='_blank'
               rel='noopener noreferrer'
             >
-              <i class='fab fa-facebook-f'></i>
+              <i className='fab fa-facebook-f'></i>
             </a>
             <a
               href='https://twitter.com/etofc'
               target='_blank'
               rel='noopener noreferrer'
             >
-              <i class='fab fa-twitter'></i>
+              <i className='fab fa-twitter'></i>
             </a>
             <a
               href='https://www.instagram.com/ensemble_theatre_of_chatt/'
               target='_blank'
               rel='noopener noreferrer'
             >
-              <i class='fab fa-instagram'></i>
+              <i className='fab fa-instagram'></i>
             </a>
             <a
               href='https://www.youtube.com/user/ETCgarry/featured'
               target='_blank'
               rel='noopener noreferrer'
             >
-              <i class='fab fa-youtube'></i>
+              <i className='fab fa-youtube'></i>
             </a>
             <a
               href='https://www.patreon.com/ETChattanooga'
               target='_blank'
               rel='noopener noreferrer'
             >
-              <i class='fab fa-patreon'></i>
+              <i className='fab fa-patreon'></i>
             </a>
           </div>
         </div>

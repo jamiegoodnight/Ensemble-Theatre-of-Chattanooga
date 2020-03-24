@@ -8,7 +8,7 @@ const Timeline = () => {
       <div className='tl-box-container'>
         <div className='tl-box'>
           <div className='inner-box box-1'>
-            <i class='fas fa-theater-masks'></i>
+            <i className='fas fa-theater-masks'></i>
             <h4>Dynamic, unique</h4>
             <p>
               We strive to create experiences for our audiences and artists that
@@ -19,7 +19,7 @@ const Timeline = () => {
         </div>
         <div className='tl-box'>
           <div className='inner-box box-2'>
-            <i class='fas fa-dollar-sign'></i>
+            <i className='fas fa-dollar-sign'></i>
             <h4>Paying artists</h4>
             <p>
               Ensemble Theatre of Chattanooga is Chattanooga's only theatre with
@@ -29,7 +29,7 @@ const Timeline = () => {
         </div>
         <div className='tl-box box-2'>
           <div className='inner-box box-3'>
-            <i class='fas fa-hands-helping'></i>
+            <i className='fas fa-hands-helping'></i>
             <h4>Part of a whole</h4>
             <p>
               Our vision is to generously contribute to the cultural landscape

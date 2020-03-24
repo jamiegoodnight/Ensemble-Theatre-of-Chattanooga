@@ -15,12 +15,6 @@
   }
 }
 
-/* @media (max-width: 600px) {
-  .core-wrapper2 {
-    height: 1100px;
-  }
-} */
-
 @media (max-width: 400px) {
   .core-wrapper2 {
     flex-direction: column;
@@ -29,12 +23,6 @@
     margin-top: -100px;
   }
 }
-
-/* @media (max-width: 350px) {
-  .core-wrapper2 {
-    height: 1200px;
-  }
-} */
 
 .core-title {
   background-color: white;

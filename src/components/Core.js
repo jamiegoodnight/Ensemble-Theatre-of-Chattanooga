@@ -5,7 +5,6 @@ import ExecutiveCSS from '../styles/ExecutiveCSS.css';
 const Executive = () => {
   return (
     <div className='core-wrapper2'>
-      {/* <div className='core-bg-chr'></div> */}
       <div className='core-title'>
         <h3 className='core-h3'>CORE ENSEMBLE</h3>
       </div>
