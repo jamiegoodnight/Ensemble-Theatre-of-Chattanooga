@@ -1,4 +1,3 @@
-// Mac push test
 import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -7,7 +6,6 @@ import Home from './screens/Home';
 import Now from './components/Now';
 import About from './screens/About';
 import GetInvolved from './screens/GetInvolved';
-import Spectrum from './components/Spectrum'
 import Community from './screens/Community';
 import Footer from './components/Footer';
 
@@ -25,7 +23,7 @@ const App = () => {
           <a className='a-cur-show-mobile' href="https://www.artful.ly/ensemble-theatre-of-chattanooga/store/events/19935" target="_blank" rel='noopener noreferrer'>
           <div className='current-show'>
             <h2>FROZEN</h2>
-            {/* <p>FEB 14 - FEB 22</p> */}
+            {/* <p>FEB 14 - FEB 22</p>  Example date format*/}
             <div className='cur-show-inner'>
               <p>POSTPONED &#8226;</p>
               <i className="fas fa-ticket-alt"></i>
@@ -42,7 +40,6 @@ const App = () => {
             <h3>Get Involved</h3>
           </a>
         </div>
-        {/* <div className={active === true ? 'desktop-nav' : 'display'}> */}
         <div>
           <Home></Home>
           <Now></Now>

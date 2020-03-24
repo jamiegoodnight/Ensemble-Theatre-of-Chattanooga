@@ -12,7 +12,7 @@ const Navigation = props => {
       <div className='nav-wrapper'>
         <i
           onClick={() => activate()}
-          class={props.active === true ? 'fas fa-times' : 'fas fa-bars'}
+          className={props.active === true ? 'fas fa-times' : 'fas fa-bars'}
           id='bars'
         ></i>
         <div className='main-navigation'>

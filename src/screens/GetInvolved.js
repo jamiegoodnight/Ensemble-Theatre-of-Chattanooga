@@ -27,7 +27,6 @@ const GetInvolved = () => {
               className='btn'
               variant='dark'
               href='https://drive.google.com/file/d/1YmLTcyAu30MweH8uBky_tYP66DjrZZtZ/view?usp=sharing'
-              // href='https://drive.google.com/open?id=1JQ3HwfNs6WGLxsm8CIcm19Bkd2X1h3eG'
               target='_blank'
             >
               <h5>Audition</h5>
@@ -106,35 +105,35 @@ const GetInvolved = () => {
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                <i class='fab fa-facebook-f'></i>
+                <i className='fab fa-facebook-f'></i>
               </a>
               <a
                 href='https://twitter.com/etofc'
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                <i class='fab fa-twitter'></i>
+                <i className='fab fa-twitter'></i>
               </a>
               <a
                 href='https://www.instagram.com/ensemble_theatre_of_chatt/'
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                <i class='fab fa-instagram'></i>
+                <i className='fab fa-instagram'></i>
               </a>
               <a
                 href='https://www.youtube.com/user/ETCgarry/featured'
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                <i class='fab fa-youtube'></i>
+                <i className='fab fa-youtube'></i>
               </a>
               <a
                 href='https://www.patreon.com/ETChattanooga'
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                <i class='fab fa-patreon'></i>
+                <i className='fab fa-patreon'></i>
               </a>
             </div>
           </div>

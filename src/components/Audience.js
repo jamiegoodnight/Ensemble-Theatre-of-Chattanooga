@@ -15,7 +15,7 @@ const Executive = () => {
           very generous donors and community partners who have helped make ETC
           possible.
         </p>
-        <i class='fas fa-arrow-down'></i>
+        <i className='fas fa-arrow-down'></i>
       </div>
       <div className='aud-bg'></div>
     </div>
