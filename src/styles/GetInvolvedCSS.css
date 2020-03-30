@@ -4,6 +4,10 @@
   margin-bottom: 100px;
 }
 
+.buffer {
+  height: 100px;
+}
+
 .GI-div {
   display: flex;
   height: 400px;
