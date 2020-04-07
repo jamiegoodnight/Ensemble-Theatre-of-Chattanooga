@@ -380,6 +380,10 @@ a h5 {
   color: #e85b46;
 }
 
+.fa-paypal:hover {
+  color: #003087
+}
+
 .navigation img {
   width: 90px;
 }
