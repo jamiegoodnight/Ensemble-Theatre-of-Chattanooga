@@ -135,6 +135,13 @@ const GetInvolved = () => {
               >
                 <i className='fab fa-patreon'></i>
               </a>
+              <a
+                href='https://www.paypal.com/paypalme2/etofc'
+                target='_blank'
+                rel='noopener noreferrer'
+              >
+                <i class="fab fa-paypal"></i>
+              </a>
             </div>
           </div>
         </div>
