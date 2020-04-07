@@ -140,7 +140,7 @@ const GetInvolved = () => {
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                <i class="fab fa-paypal"></i>
+                <i className="fab fa-paypal"></i>
               </a>
             </div>
           </div>
