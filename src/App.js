@@ -51,7 +51,7 @@ const App = () => {
           {/* <ConstantContact></ConstantContact> */}
           <Footer></Footer>
           <div className='ctct-wrapper'>
-          <div class="ctct-inline-form" data-form-id="bda91dd1-8f12-4bb5-8921-ab1500c7c778"></div>
+           <div class="ctct-inline-form" data-form-id="bda91dd1-8f12-4bb5-8921-ab1500c7c778"></div>
           </div>
         </div>
       </div>
