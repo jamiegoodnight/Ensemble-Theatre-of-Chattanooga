@@ -5,8 +5,9 @@ import Navigation from './components/Navigation';
 import Home from './screens/Home';
 import Now from './components/Now';
 import About from './screens/About';
-import GetInvolved from './screens/GetInvolved';
 import Community from './screens/Community';
+import GetInvolved from './screens/GetInvolved';
+import ConstantContact from './components/ConstantContact'
 import Footer from './components/Footer';
 
 import './App.css';
@@ -47,7 +48,11 @@ const App = () => {
           <Community></Community>
           {/* <Spectrum></Spectrum> */}
           <GetInvolved></GetInvolved>
+          {/* <ConstantContact></ConstantContact> */}
           <Footer></Footer>
+          <div className='ctct-wrapper'>
+          <div class="ctct-inline-form" data-form-id="bda91dd1-8f12-4bb5-8921-ab1500c7c778"></div>
+          </div>
         </div>
       </div>
     </div>
