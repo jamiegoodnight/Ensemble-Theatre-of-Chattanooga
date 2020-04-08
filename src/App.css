@@ -194,3 +194,7 @@ h3 {
 .mobile-nav a h3:hover {
   color: red;
 }
+
+.ctct-wrapper {
+  display: none;
+}

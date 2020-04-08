@@ -1,0 +1,21 @@
+.ctct-wrapper {
+    width: 100%;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.ctct-image {
+    width: 50%;
+}
+
+.ctct-image {
+    width: 50%;
+    background-image: url('https://i.imgur.com/glCtabv.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;    
+}
+
+.ctct-inline-form {
+    width: 50%;
+}
