@@ -1,6 +1,6 @@
 import React from 'react';
 
-import ExecutiveCSS from '../styles/ConstantContactCSS.css';
+import ConstantContactCSS from '../styles/ConstantContactCSS.css';
 
 const ConstantContact = () => {
   return (
