@@ -1,146 +1,159 @@
 .now-wrapper {
-    width: 100%;
-    height: 500px;
-    display: flex;
-    /* margin-top: 100px;  */
-    /* CORONA */
-    margin-top: 200px;
-    margin-bottom: 100px;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  margin-top: 100px;
+  /* CORONA */
+  /* margin-top: 200px;
+  margin-bottom: 100px; */
 }
 
 @media (max-width: 1290px) {
-    .now-wrapper {
-        flex-direction: column;
-        height: 800px;
-        align-items: center;
-        /* CORONA */
-        margin-top: 100px;
-        margin-bottom: 0px;
-    }
+  .now-wrapper {
+    flex-direction: column;
+    height: 800px;
+    align-items: center;
+    /* CORONA */
+    /* margin-top: 100px;
+    margin-bottom: 0px; */
+  }
 }
 
 @media (max-width: 840px) {
-    .now-wrapper {
-        flex-direction: column;
-        height: 1000px;
-        align-items: center;
-    }
+  .now-wrapper {
+    flex-direction: column;
+    height: 1000px;
+    align-items: center;
+  }
 }
 
-
 @media (max-width: 540px) {
-    .now-wrapper {
-        flex-direction: column;
-        height: 1000px;
-    }
+  .now-wrapper {
+    flex-direction: column;
+    height: 1000px;
+  }
 }
 
 @media (max-width: 470px) {
-    .now-wrapper {
-        flex-direction: column;
-        height: 1200px;
-    }
+  .now-wrapper {
+    flex-direction: column;
+    height: 1200px;
+  }
 }
 
-
 @media (max-width: 370px) {
-    .now-wrapper {
-        flex-direction: column;
-        height: 1400px;
-    }
+  .now-wrapper {
+    flex-direction: column;
+    height: 1400px;
+  }
 }
 
 @media (max-width: 330px) {
-    .now-wrapper {
-        flex-direction: column;
-        height: 1600px;
-    }
-} 
+  .now-wrapper {
+    flex-direction: column;
+    height: 1600px;
+  }
+}
 
 .now-img {
-    width: 50%;
-    height: 100%;
-    background-image: url('https://i.imgur.com/REWEv4g.jpg');
-    /* background-image: url('https://i.imgur.com/7owrs50.png'); */
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 50% 90%;
+  width: 50%;
+  height: 100%;
+  background-image: url('https://i.imgur.com/Km4ASpW.png');
+  /* background-image: url('https://i.imgur.com/REWEv4g.jpg'); */
+  /* background-image: url('https://i.imgur.com/7owrs50.png'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-size: contain; */
+  background-position: 50% 50%;
 }
 
 @media (max-width: 1290px) {
-    .now-img {
-        width: 100%;
-        height: 400px;
-        background-position: 50% 50%;
-    }
+  .now-img {
+    width: 100%;
+    height: 400px;
+    background-position: 50% 50%;
+  }
 }
 
 .now-text {
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (max-width: 1290px) {
-    .now-text {
-        width: 100%;
-        margin-top: 20px;
-    }
+  .now-text {
+    width: 100%;
+    margin-top: 20px;
+  }
 }
 
 .now-text h2 {
-    font-size: 4rem;
-    color: red;
-    font-family: 'Fjalla One', sans-serif;
-    /* font-weight: bold; */
-    margin-bottom: 5px;
+  font-size: 4rem;
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+  /* font-weight: bold; */
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .now-text h3 {
-    font-size: 1.5rem;
-    color: black;
-    font-family: 'Lato', sans-serif;
-    margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: black;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 20px;
 }
 
-
 .now-text p {
-    font-family: 'Open Sans', sans-serif;
-    line-height: 2.5rem;
-    /* font-size: 1.7rem; */
-    font-size: 1.4rem;
-    color: black;
-    margin-bottom: 10px;
-    margin-right: 80px;
-    margin-left: 80px;
-    text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 2.5rem;
+  /* font-size: 1.7rem; */
+  font-size: 1.7rem;
+  color: black;
+  margin-bottom: 10px;
+  margin-right: 80px;
+  margin-left: 80px;
+  text-align: left;
 }
 
 @media (max-width: 1290px) {
-    .now-text p {
-        margin-right: 30px;
-        margin-left: 30px;
-    }
+  .now-text p {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
 }
 
 .divider {
-    display: none;
-    clip-path: polygon(0 55%, 0% 100%, 100% 100%);
-    background-color: black;
-    width: 100%;
-    height: 200px;
-    margin-top: -50px;
+  display: none;
+  clip-path: polygon(0 55%, 0% 100%, 100% 100%);
+  background-color: black;
+  width: 100%;
+  height: 200px;
+  margin-top: -100px;
 }
 
 @media (max-width: 1290px) {
-    .divider{
-        display: block;
-    }
+  .divider {
+    display: block;
+  }
 }
 
-.now-wrapper .corona-p{
-    color: red;
-    font-size: 1.3rem;
+.now-wrapper .corona-p {
+  color: red;
+  font-size: 1.3rem;
+}
+
+.tix-button .fa-ticket-alt {
+  font-size: 50px;
+}
+
+.tix-a {
+  font-size: 20px;
+  color: black;
+}
+
+.tix-a :hover {
+  color: #ffcc49;
 }
