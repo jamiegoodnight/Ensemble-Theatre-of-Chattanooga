@@ -44,14 +44,14 @@
 @media (max-width: 370px) {
   .now-wrapper {
     flex-direction: column;
-    height: 1400px;
+    height: 1200px;
   }
 }
 
 @media (max-width: 330px) {
   .now-wrapper {
     flex-direction: column;
-    height: 1600px;
+    height: 1200px;
   }
 }
 
