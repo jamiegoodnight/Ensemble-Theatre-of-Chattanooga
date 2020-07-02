@@ -81,13 +81,13 @@
 }
 
 .cur-show-inner {
-  display:flex;
+  display: flex;
 }
 
 .current-show h2 {
   font-size: 3rem;
   font-family: 'Fjalla One', sans-serif;
-  color: red;
+  color: #ffcc49;
   margin-top: 10px;
 }
 
@@ -132,7 +132,7 @@
 }
 
 .navigation-items h3:hover {
-  color: red;
+  color: #ffcc49;
   cursor: pointer;
 }
 
