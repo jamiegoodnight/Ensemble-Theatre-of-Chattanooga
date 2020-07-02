@@ -14,10 +14,10 @@ const Now = () => {
             We're producing our biggest, boldest virtual event yet! It's
             10x10x10! 10 nights. 10 plays. 10-ish minutes. 10 PM. $10 flexpass.
             That's right, there are more 10s then we could even fit in the
-            title! Starting July 10th at 10 PM ET join Ensemble Theatre of
-            Chattanooga for a viewing party where we get to hang out, catch a
-            new 10 minute play, and keep theatre alive in Chattanooga—and across
-            the country!
+            title! Starting July 10th at 10 PM ET catch a new 10 minute play
+            from Ensemble Theatre of Chattanooga culminating in a viewing party
+            on July 20th where we get to hang out, watch 'em all, and keep
+            theatre alive in Chattanooga—and across the country!
           </p>
           <p>
             Featuring Cody Keown, Autumn Allison, Zella Stockman, Jamie Kessler,
