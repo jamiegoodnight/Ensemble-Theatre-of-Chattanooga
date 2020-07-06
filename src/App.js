@@ -31,7 +31,7 @@ const App = () => {
               <h2>10 X 10 X 10</h2>
               {/* <p>FEB 14 - FEB 22</p>  Example date format*/}
               <div className='cur-show-inner'>
-                {/* <p>POSTPONED &#8226;</p> */}
+                <p>July 10-20 &#8226;</p>
                 <i className='fas fa-ticket-alt'></i>
               </div>
             </div>

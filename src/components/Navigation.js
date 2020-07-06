@@ -30,7 +30,7 @@ const Navigation = (props) => {
               <div className='current-show'>
                 <h2>10 X 10 X 10</h2>
                 <div className='cur-show-inner'>
-                  {/* <p> &#8226;</p> */}
+                  <p>July 10-20 &#8226;</p>
                   <i className='fas fa-ticket-alt'></i>
                 </div>
               </div>
