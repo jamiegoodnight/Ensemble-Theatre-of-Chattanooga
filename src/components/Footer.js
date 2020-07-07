@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer'>
       <div className='footer-top-wrapper'>
         <div className='footer-top'>
-          <img src='https://i.imgur.com/mxX1gl9.png' alt='ETC'/>
+          <img src='https://i.imgur.com/mxX1gl9.png' alt='ETC' />
           <div className='footer-contact'>
             <h4>CONTACT</h4>
             <p>423-987-5141</p>
@@ -52,6 +52,13 @@ const Footer = () => {
               rel='noopener noreferrer'
             >
               <i className='fab fa-patreon'></i>
+            </a>
+            <a
+              href='https://www.paypal.com/paypalme2/etofc'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <i className='fab fa-paypal'></i>
             </a>
           </div>
         </div>
