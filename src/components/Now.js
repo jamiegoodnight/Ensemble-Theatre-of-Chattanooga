@@ -8,27 +8,25 @@ const Now = () => {
       <div className='now-wrapper'>
         <div className='now-img'></div>
         <div className='now-text'>
-          <h2>10 X 10 X 10</h2>
+          <h2>LIGHTS UP!</h2>
           {/* <h3>—</h3> */}
           <p>
-            We're producing our biggest, boldest virtual event yet! It's
-            10x10x10! 10 nights. 10 plays. 10-ish minutes. 10 PM. $10 flexpass.
-            That's right, there are more 10s then we could even fit in the
-            title! Starting July 10th at 10 PM ET catch a new 10 minute play
-            from Ensemble Theatre of Chattanooga culminating in a viewing party
-            on July 20th where we get to hang out, watch 'em all, and keep
-            theatre alive in Chattanooga—and across the country!
+          A podcast that celebrates playwrights, performers and patrons. 
+          Hosts Dana Colagiovanni and Christy Gallo introduce us to and 
+          interview theatre artists and creatives while exploring the depths of 
+          storytelling and imagination of several playwrights you might never 
+          have heard of... yet.
           </p>
-          <p>
+          {/* <p>
             Featuring Cody Keown, Autumn Allison, Zella Stockman, Jamie Kessler,
             Tris Haugh, Taylor Williams, Normand Caissie, Maggie Williams, Eric
             "Red" Wyatt, Michael Myers, Christopher Wilson, Tiffany Bulloch,
             Joel Sanchez-Avantes, Dani Clark, Courtenay Cholovich, Ed Huckabee,
             Garry Posey, and even more actors and playwrights!
-          </p>
+          </p> */}
           <a
             className='tix-a'
-            href='https://www.showtix4u.com/events/17228'
+            href='https://anchor.fm/etchattanooga'
             target='_blank'
             rel='noopener noreferrer'
           >

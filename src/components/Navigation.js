@@ -21,7 +21,7 @@ const Navigation = (props) => {
         ></i>
         <div className='main-navigation'>
           <div className='navigation-items'>
-            <a
+            {/* <a
               className='a-cur-show'
               href='https://www.showtix4u.com/events/17228'
               target='_blank'
@@ -34,12 +34,17 @@ const Navigation = (props) => {
                   <i className='fas fa-ticket-alt'></i>
                 </div>
               </div>
-            </a>
+            </a> */}
             <a href='#Home'>
               <h3>HOME</h3>
             </a>
             <a href='#About'>
               <h3 className='about-nav'>ABOUT</h3>
+            </a>
+            <a href='https://anchor.fm/etchattanooga'
+              target="_blank"
+              rel='noopener nofeferrer'>
+              <h3 className='pod-nav'>THE PODCAST</h3>
             </a>
             <a href='#Get-Involved'>
               <h3>GET INVOLVED</h3>
