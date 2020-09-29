@@ -21,26 +21,31 @@ const App = () => {
       <div className='constrainer'>
         <Navigation active={active} setActive={setActive} />
         <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
-          <a
+          {/* <a
             className='a-cur-show-mobile'
             href='https://www.showtix4u.com/events/17228'
             target='_blank'
             rel='noopener noreferrer'
           >
             <div className='current-show'>
-              <h2>10 X 10 X 10</h2>
+              <h2>LIGHTS UP!</h2> */}
               {/* <p>FEB 14 - FEB 22</p>  Example date format*/}
-              <div className='cur-show-inner'>
-                <p>July 10-20 &#8226;</p>
-                <i className='fas fa-ticket-alt'></i>
+              {/* <div className='cur-show-inner'> */}
+                {/* <p>July 10-20 &#8226;</p> */}
+                {/* <i className='fas fa-ticket-alt'></i>
               </div>
             </div>
-          </a>
+          </a> */}
           <a href='#Home' onClick={() => setActive(false)}>
             <h3>Home</h3>
           </a>
           <a href='#About' onClick={() => setActive(false)}>
             <h3>About</h3>
+          </a>
+          <a href='https://anchor.fm/etchattanooga'
+             target="_blank"
+             rel='noopener nofeferrer'>
+            <h3>The Podcast</h3>
           </a>
           <a href='#Get-Involved' onClick={() => setActive(false)}>
             <h3>Get Involved</h3>
@@ -48,7 +53,7 @@ const App = () => {
         </div>
         <div>
           <Home></Home>
-          <Now></Now>
+          {/* <Now></Now> */}
           <About></About>
           <Community></Community>
           {/* <Spectrum></Spectrum> */}
