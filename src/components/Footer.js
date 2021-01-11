@@ -65,7 +65,7 @@ const Footer = () => {
       </div>
       <div className='footer-copyright'>
         <i className='fas fa-copyright'></i>
-        <h5>2020 Ensemble Theatre of Chattanooga, Inc</h5>
+        <h5>2021 Ensemble Theatre of Chattanooga, Inc</h5>
       </div>
     </div>
   );
