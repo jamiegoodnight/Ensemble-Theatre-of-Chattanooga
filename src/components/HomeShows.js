@@ -9,14 +9,14 @@ const HomeShows = () => {
       <div className='show-row'>
         <div className='show-wrapper-one'>
           <div className='show-one pointer'>
-            {/* <p>Jeremy Wilkins as Caliban</p>
-            <h3>THE TEMPEST</h3> */}
+            <p>Jeremy Wilkins as Caliban</p>
+            <h3>THE TEMPEST</h3>
           </div>
         </div>
         <div className='show-wrapper-two'>
           <div className='show-two pointer'>
-            {/* <p>Joey Tipton as Katurian</p>
-            <h3>THE PILLOWMAN</h3> */}
+            <p>Joey Tipton as Katurian</p>
+            <h3>THE PILLOWMAN</h3>
           </div>
         </div>
       </div>
