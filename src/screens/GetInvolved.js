@@ -13,6 +13,10 @@ const GetInvolved = () => {
           <h3 className='white-h3 dir-text-2'>AUDITION</h3>
           <h3 className='white-h3 dir-text-3'>AUDITION</h3>
           <h3 className='white-h3 dir-text-4'>AUDITION</h3>
+          <h3 className='white-h3 dir-text-4'>AUDITION</h3>
+          <h3 className='white-h3 dir-text-4'>AUDITION</h3>
+          <h3 className='white-h3 dir-text-4'>AUDITION</h3>
+          <h3 className='white-h3 dir-text-4'>AUDITION</h3>
         </div>
         <div className='GI-inner-div auditions-text'>
           <div className='text-box'>
@@ -40,10 +44,10 @@ const GetInvolved = () => {
             <h1>DESIGN</h1>
             <h2>
               Make cool stuff for us! Good design can transport audiences (and
-              actors) to Georgia manor houses, dingy apartments, and
-              medieval battlefields. Watch this space to find out when we're
-              looking for designers or email us if you've got good ideas and
-              need a stage to use 'em.
+              actors) to Georgia manor houses, dingy apartments, and medieval
+              battlefields. Watch this space to find out when we're looking for
+              designers or email us if you've got good ideas and need a stage to
+              use 'em.
             </h2>
             <Button
               className='btn'
@@ -60,11 +64,17 @@ const GetInvolved = () => {
           <h3 className='white-h3 dir-text-2'>DESIGN</h3>
           <h3 className='white-h3 dir-text-3'>DESIGN</h3>
           <h3 className='white-h3 dir-text-4'>DESIGN</h3>
+          <h3 className='white-h3 dir-text-2'>DESIGN</h3>
+          <h3 className='white-h3 dir-text-3'>DESIGN</h3>
+          <h3 className='white-h3 dir-text-4'>DESIGN</h3>
         </div>
       </div>
       <div className='GI-div directing'>
         <div className='GI-inner-div directing-image'>
           <h3 className='white-h3 dir-text-1'>DIRECT</h3>
+          <h3 className='white-h3 dir-text-2'>DIRECT</h3>
+          <h3 className='white-h3 dir-text-3'>DIRECT</h3>
+          <h3 className='white-h3 dir-text-4'>DIRECT</h3>
           <h3 className='white-h3 dir-text-2'>DIRECT</h3>
           <h3 className='white-h3 dir-text-3'>DIRECT</h3>
           <h3 className='white-h3 dir-text-4'>DIRECT</h3>
@@ -140,13 +150,16 @@ const GetInvolved = () => {
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                <i className="fab fa-paypal"></i>
+                <i className='fab fa-paypal'></i>
               </a>
             </div>
           </div>
         </div>
         <div className='GI-inner-div volunteering-image'>
           <h3 className='white-h3 dir-text-1'>SUPPORT</h3>
+          <h3 className='white-h3 dir-text-2'>SUPPORT</h3>
+          <h3 className='white-h3 dir-text-3'>SUPPORT</h3>
+          <h3 className='white-h3 dir-text-4'>SUPPORT</h3>
           <h3 className='white-h3 dir-text-2'>SUPPORT</h3>
           <h3 className='white-h3 dir-text-3'>SUPPORT</h3>
           <h3 className='white-h3 dir-text-4'>SUPPORT</h3>
