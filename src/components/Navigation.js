@@ -21,20 +21,20 @@ const Navigation = (props) => {
         ></i>
         <div className='main-navigation'>
           <div className='navigation-items'>
-            {/* <a
+            <a
               className='a-cur-show'
-              href='https://www.showtix4u.com/events/17228'
+              href='https://etoc.booktix.com/'
               target='_blank'
               rel='noopener noreferrer'
             >
               <div className='current-show'>
-                <h2>10 X 10 X 10</h2>
+                <h2>Forbidden Broadway</h2>
                 <div className='cur-show-inner'>
-                  <p>July 10-20 &#8226;</p>
+                  <p>February 26-28 &#8226;</p>
                   <i className='fas fa-ticket-alt'></i>
                 </div>
               </div>
-            </a> */}
+            </a>
             <a href='#Home'>
               <h3>HOME</h3>
             </a>
