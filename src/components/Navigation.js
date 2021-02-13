@@ -44,7 +44,7 @@ const Navigation = (props) => {
             <a href='https://anchor.fm/etchattanooga'
               target="_blank"
               rel='noopener nofeferrer'>
-              <h3 className='pod-nav'>THE PODCAST</h3>
+              <h3 className='pod-nav'>PODCAST</h3>
             </a>
             <a href='#Get-Involved'>
               <h3>GET INVOLVED</h3>

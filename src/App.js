@@ -45,7 +45,7 @@ const App = () => {
           <a href='https://anchor.fm/etchattanooga'
              target="_blank"
              rel='noopener nofeferrer'>
-            <h3>The Podcast</h3>
+            <h3>Podcast</h3>
           </a>
           <a href='#Get-Involved' onClick={() => setActive(false)}>
             <h3>Get Involved</h3>
