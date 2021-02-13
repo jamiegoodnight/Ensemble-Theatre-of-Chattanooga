@@ -23,7 +23,7 @@ const App = () => {
         <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
           <a
             className='a-cur-show-mobile'
-            href='https://www.etoc.booktix.com'
+            href='https://etoc.booktix.com'
             target='_blank'
             rel='noopener noreferrer'
           >
