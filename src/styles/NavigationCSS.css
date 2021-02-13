@@ -84,7 +84,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-right: -20px;
+  /* margin-right: -20px; */
 }
 
 .cur-show-inner {
@@ -92,9 +92,9 @@
 }
 
 .current-show h2 {
-  font-size: 3rem;
+  font-size: 2rem;
   font-family: 'Fjalla One', sans-serif;
-  color: #ffcc49;
+  color: #eb1c25;
   margin-top: 10px;
 }
 
@@ -139,7 +139,7 @@
 }
 
 .navigation-items h3:hover {
-  color: #E0AA0F;
+  color: #eb1c25;
   cursor: pointer;
 }
 

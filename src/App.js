@@ -21,21 +21,21 @@ const App = () => {
       <div className='constrainer'>
         <Navigation active={active} setActive={setActive} />
         <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
-          {/* <a
+          <a
             className='a-cur-show-mobile'
-            href='https://www.showtix4u.com/events/17228'
+            href='https://www.etoc.booktix.com'
             target='_blank'
             rel='noopener noreferrer'
           >
             <div className='current-show'>
-              <h2>LIGHTS UP!</h2> */}
+              <h2>Forbidden Broadway</h2>
               {/* <p>FEB 14 - FEB 22</p>  Example date format*/}
-              {/* <div className='cur-show-inner'> */}
-                {/* <p>July 10-20 &#8226;</p> */}
-                {/* <i className='fas fa-ticket-alt'></i>
+              <div className='cur-show-inner'> 
+                <p>February 26-28 &#8226;</p>
+                <i className='fas fa-ticket-alt'></i>
               </div>
             </div>
-          </a> */}
+          </a> 
           <a href='#Home' onClick={() => setActive(false)}>
             <h3>Home</h3>
           </a>
