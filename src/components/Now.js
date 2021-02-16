@@ -17,8 +17,8 @@ const Now = () => {
           </p>
           <p>
             Featuring Cody Keown, Jordan Otis, Jordan Bennett, John Thomas McCecil, 
-            Taylor Williams, Maggie Williams, Chelsea Carboni, Dani Clark, Joseph Watts,
-            Joel Sanchez-Avantes, Alssa Whitesell, Karley Moon, Jeffrey Parker, Michelle Ford,
+            Taylor Williams, Maggie Williams, Chelsea Carboni, Dani Clark, 
+            Joel Sanchez-Avantes, Alyssa Whitesell, Karley Moon, Jeffrey Parker, Michelle Ford,
             Paige Denton, Brenda Schwab, Beth McClary-Wolford, Ryan Laskowski, and Garry Lee Posey
           </p>
           <a
