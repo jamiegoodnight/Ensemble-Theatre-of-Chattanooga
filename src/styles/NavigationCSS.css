@@ -94,7 +94,7 @@
 .current-show h2 {
   font-size: 2rem;
   font-family: 'Fjalla One', sans-serif;
-  color: #a75ba4;
+  color: red;
   margin-top: 10px;
 }
 
@@ -139,7 +139,7 @@
 }
 
 .navigation-items h3:hover {
-  color: #a75ba4;
+  color: red;
   cursor: pointer;
 }
 

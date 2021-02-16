@@ -140,6 +140,30 @@
   }
 }
 
+@media (max-width: 840px) {
+  .divider {
+    margin-top: -300px;
+  }
+}
+
+@media (max-width: 540px) {
+  .divider {
+    margin-top: -200px;
+  }
+}
+
+@media (max-width: 470px) {
+  .divider {
+    margin-top: -300px;
+  }
+}
+
+@media (max-width: 350px) {
+  .divider {
+    margin-top: -200px;
+  }
+}
+
 .now-wrapper .corona-p {
   color: red;
   font-size: 1.3rem;
@@ -155,5 +179,5 @@
 }
 
 .tix-a :hover {
-  color: #a75ba4;
+  color: red;
 }
