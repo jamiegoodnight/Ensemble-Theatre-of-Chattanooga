@@ -53,7 +53,7 @@ const App = () => {
         </div>
         <div>
           <Home></Home>
-          {/* <Now></Now> */}
+          <Now></Now>
           <About></About>
           <Community></Community>
           {/* <Spectrum></Spectrum> */}

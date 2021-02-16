@@ -8,25 +8,22 @@ const Now = () => {
       <div className='now-wrapper'>
         <div className='now-img'></div>
         <div className='now-text'>
-          <h2>LIGHTS UP!</h2>
+          <h2>Forbidden Broadway</h2>
           {/* <h3>—</h3> */}
           <p>
-            A podcast that celebrates playwrights, performers and patrons. Hosts
-            Dana Colagiovanni and Christy Gallo introduce us to and interview
-            theatre artists and creatives while exploring the depths of
-            storytelling and imagination of several playwrights you might never
-            have heard of... yet.
+          In this long-running Off-Broadway hit musical revue, Broadway’s greatest musical 
+          legends meet Broadway’s greatest satirist in this hilarious, loving, and endlessly 
+          entertaining tribute to some of the theatre’s greatest stars and songwriters.
           </p>
-          {/* <p>
-            Featuring Cody Keown, Autumn Allison, Zella Stockman, Jamie Kessler,
-            Tris Haugh, Taylor Williams, Normand Caissie, Maggie Williams, Eric
-            "Red" Wyatt, Michael Myers, Christopher Wilson, Tiffany Bulloch,
-            Joel Sanchez-Avantes, Dani Clark, Courtenay Cholovich, Ed Huckabee,
-            Garry Posey, and even more actors and playwrights!
-          </p> */}
+          <p>
+            Featuring Cody Keown, Jordan Otis, Jordan Bennett, John Thomas McCecil, 
+            Taylor Williams, Maggie Williams, Chelsea Crosby, Dani Clark, Joseph Watts,
+            Joel Sanchez-Avantes, Alssa Whitesell, Karley Moon, Jeffrey Parker, Michelle Ford,
+            Paige Denton, Brenda Schwab, Beth McClary-Wolford, Ryan Laskowski, and Garry Lee Posey
+          </p>
           <a
             className='tix-a'
-            href='https://anchor.fm/etchattanooga'
+            href='https://etoc.booktix.com'
             target='_blank'
             rel='noopener noreferrer'
           >
