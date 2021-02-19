@@ -30,7 +30,7 @@ const Navigation = (props) => {
               <div className='current-show'>
                 <h2>Forbidden Broadway</h2>
                 <div className='cur-show-inner'>
-                  <p>February 26-28 &#8226;</p>
+                  <p>March 5-7 &#8226;</p>
                   <i className='fas fa-ticket-alt'></i>
                 </div>
               </div>
