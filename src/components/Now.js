@@ -19,8 +19,8 @@ const Now = () => {
             Featuring Cody Keown, Jordan Otis, Jordan Bennett, John Thomas McCecil, 
             Taylor Williams, Maggie Williams, Chelsea Carboni, Dani Clark, 
             Joel Sanchez-Avantes, Alyssa Whitesell, Karley Moon, Jeffrey Parker, Michelle Ford,
-            Paige Denton, Brenda Schwab, Beth McClary-Wolford, Ryan Laskowski, and Garry Lee Posey
-          </p>
+            Paige Denton, Brenda Schwab, Beth McClary-Wolford, Ryan Laskowski, Richard Nichols, Deb Meeks, 
+            Zack Caywood, Conor Suitsand, and Garry Lee Posey. Music direction by Terry Sanford.           </p>
           <a
             className='tix-a'
             href='https://etoc.booktix.com'
