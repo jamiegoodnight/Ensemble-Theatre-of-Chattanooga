@@ -21,7 +21,7 @@ const Executive = () => {
           <p>-</p>
           <p>
             Core Ensemble &#8226; Marianna Allen | Josh Garcia | Savannah Hale |
-            Tristan Haugh | Cody Keown | Michael Myers | James Ogden | Kashun
+            Tris Haugh | Cody Keown | Michael Myers | James Ogden | Kashun
             Parks | Terry Sanford | Brenda Schwab | Christian Smith | Andrew
             Steele | Katie Warren | Alyssa Whitesell | Bruce Shaw | Jacob Moore
             | Normand Caissie | Fallon Garret | Guest Ensemble &#8226; Jordan
