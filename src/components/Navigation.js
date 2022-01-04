@@ -35,6 +35,12 @@ const Navigation = (props) => {
                 </div>
               </div> */}
             </a>
+            <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga'
+             target="_blank"
+             rel='noopener nofeferrer'
+             class='now-playing'>
+            <h3>NOW</h3>
+          </a>
             <a href='#Home'>
               <h3>HOME</h3>
             </a>

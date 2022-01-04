@@ -36,6 +36,12 @@ const App = () => {
               </div>
             </div>
           </a> 
+          <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga'
+             target="_blank"
+             rel='noopener nofeferrer'
+             >
+            <h3>Now</h3>
+          </a>
           <a href='#Home' onClick={() => setActive(false)}>
             <h3>Home</h3>
           </a>
