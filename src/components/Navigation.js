@@ -35,7 +35,7 @@ const Navigation = (props) => {
                 </div>
               </div> */}
             </a>
-            <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga'
+            <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga/stage-combat-chattanooga-45537'
              target="_blank"
              rel='noopener nofeferrer'
              class='now-playing'>
