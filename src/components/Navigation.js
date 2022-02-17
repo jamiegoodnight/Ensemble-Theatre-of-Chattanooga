@@ -41,19 +41,19 @@ const Navigation = (props) => {
              class='now-playing'>
             <h3>NOW</h3>
           </a>
-            <a href='#Home'>
+            {/* <a href='#Home'>
               <h3>HOME</h3>
             </a>
             <a href='#About'>
               <h3 className='about-nav'>ABOUT</h3>
-            </a>
+            </a> */}
             <a href='https://anchor.fm/etchattanooga'
               target="_blank"
               rel='noopener nofeferrer'>
               <h3 className='pod-nav'>PODCAST</h3>
             </a>
-            <a href='#Get-Involved'>
-              <h3>GET INVOLVED</h3>
+            <a href='https://join.slack.com/t/ensembletheat-4ts4782/shared_invite/zt-12ugkghys-B6bNTbkNwi_AO9_VsPw2igd'>
+              <h3>COMMUNITY</h3>
             </a>
           </div>
         </div>
