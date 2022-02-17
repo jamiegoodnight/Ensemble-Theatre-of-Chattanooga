@@ -42,19 +42,19 @@ const App = () => {
              >
             <h3>Now</h3>
           </a>
-          <a href='#Home' onClick={() => setActive(false)}>
+          {/* <a href='#Home' onClick={() => setActive(false)}>
             <h3>Home</h3>
           </a>
           <a href='#About' onClick={() => setActive(false)}>
             <h3>About</h3>
-          </a>
+          </a> */}
           <a href='https://anchor.fm/etchattanooga'
              target="_blank"
              rel='noopener nofeferrer'>
             <h3>Podcast</h3>
           </a>
-          <a href='#Get-Involved' onClick={() => setActive(false)}>
-            <h3>Get Involved</h3>
+          <a href='https://join.slack.com/t/ensembletheat-4ts4782/shared_invite/zt-12ugkghys-B6bNTbkNwi_AO9_VsPw2ig' onClick={() => setActive(false)}>
+            <h3>Community</h3>
           </a>
         </div>
         <div>
