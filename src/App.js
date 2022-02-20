@@ -21,21 +21,21 @@ const App = () => {
       <div className='constrainer'>
         <Navigation active={active} setActive={setActive} />
         <div className={active === true ? 'mobile-nav' : 'desktop-nav'}>
-          <a
+          {/* <a
             className='a-cur-show-mobile'
             href='https://etoc.booktix.com'
             target='_blank'
             rel='noopener noreferrer'
           >
             <div className='current-show'>
-              {/* <h2>Forbidden Broadway</h2> */}
-              {/* <p>FEB 14 - FEB 22</p>  Example date format*/}
+              <h2>Forbidden Broadway</h2>
+              <p>FEB 14 - FEB 22</p>  Example date format
               <div className='cur-show-inner'> 
-                {/* <p>March 5-7 &#8226;</p>
-                <i className='fas fa-ticket-alt'></i> */}
+                <p>March 5-7 &#8226;</p>
+                <i className='fas fa-ticket-alt'></i>
               </div>
             </div>
-          </a> 
+          </a>  */}
           <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga/stage-combat-chattanooga-45537'
              target="_blank"
              rel='noopener nofeferrer'

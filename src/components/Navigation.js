@@ -52,7 +52,7 @@ const Navigation = (props) => {
               rel='noopener nofeferrer'>
               <h3 className='pod-nav'>PODCAST</h3>
             </a>
-            <a href='https://join.slack.com/t/ensembletheat-4ts4782/shared_invite/zt-12ugkghys-B6bNTbkNwi_AO9_VsPw2igd'>
+            <a href='https://join.slack.com/t/ensembletheat-4ts4782/shared_invite/zt-12ugkghys-B6bNTbkNwi_AO9_VsPw2ig'>
               <h3>COMMUNITY</h3>
             </a>
           </div>
