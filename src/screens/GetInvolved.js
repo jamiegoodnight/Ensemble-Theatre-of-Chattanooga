@@ -30,7 +30,7 @@ const GetInvolved = () => {
             <Button
               className='btn'
               variant='dark'
-              href='https://drive.google.com/file/d/1VTJYQhOUjHEFGP6RkyAmD81iea2S1UMB/view?usp=sharing'
+              href='mailto: garry@ensembletheatreofchattanooga.com?Subject=Audition'
               target='_blank'
             >
               <h5>Audition</h5>
@@ -52,7 +52,7 @@ const GetInvolved = () => {
             <Button
               className='btn'
               variant='dark'
-              href='https://drive.google.com/open?id=1UEwOlHS5T7y8otpNO9uHeyLrOtskh7PD'
+              href='mailto: garry@ensembletheatreofchattanooga.com?Subject=Design'
               target='_blank'
             >
               <h5>Design</h5>
@@ -91,7 +91,7 @@ const GetInvolved = () => {
             <Button
               className='btn'
               variant='dark'
-              href='https://drive.google.com/open?id=1ZuFwKn80VK9iNcIGzXCbVt8OHUy5BGfW'
+              href='mailto: garry@ensembletheatreofchattanooga.com?Subject=Direct'
               target='_blank'
             >
               <h5>Direct</h5>
