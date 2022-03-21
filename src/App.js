@@ -36,7 +36,7 @@ const App = () => {
               </div>
             </div>
           </a>  */}
-          <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga/a-man-of-no-importance-15363'
+          <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga/voices-of-belarus-57682'
              target="_blank"
              rel='noopener nofeferrer'
              >
