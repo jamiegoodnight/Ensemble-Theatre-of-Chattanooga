@@ -84,6 +84,15 @@ const Donors = () => {
             <h4>Cigna Foundation</h4>
           </div>
         </div>
+        <div className='dn-box dn-box-2 founders-box cig-box'>
+          <div className='dn-inner-box'>
+            <div className='circle sharp'></div>
+            <h4>Humanities Tennessee</h4>
+            <p>
+              SHARP grant recipient
+            </p>
+          </div>
+        </div>
         <div className='dn-box dn-box-2 founders-box com-box'>
           <div className='dn-inner-box'>
             <div className='circle partners'></div>
@@ -95,6 +104,23 @@ const Donors = () => {
             </p>
           </div>
         </div>
+
+        <div className='dn-box dn-box-2 founders-box com-box'>
+          <div className='dn-inner-box'>
+            <div className='circle license'></div>
+            <h4>Specialty License Plate Program</h4>
+            <p>
+              Support the arts in our community by purchasing a specialty license
+              plate through the Tennessee Arts Commission. Just <a className="license-a"
+              href="https://tnspecialtyplates.org/purchase-a-specialty-plate/"
+              target="_blank"
+              rel='noopener nofeferrer'
+              >follow
+              this link</a> to choose from over 100 available plates!
+            </p>
+          </div>
+        </div>
+
       </div>
     </div>
   );
