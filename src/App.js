@@ -36,7 +36,7 @@ const App = () => {
               </div>
             </div>
           </a>  */}
-          <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga/she-kills-monsters-38846'
+          <a href='https://www.onthestage.tickets/show/ensemble-theatre-of-chattanooga/'
              target="_blank"
              rel='noopener nofeferrer'
              >
