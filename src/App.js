@@ -48,7 +48,7 @@ const App = () => {
           <a href='#About' onClick={() => setActive(false)}>
             <h3>About</h3>
           </a> */}
-          <a href='https://anchor.fm/etchattanooga'
+          <a href='https://podcasts.apple.com/us/podcast/lights-up/id1530836392'
              target="_blank"
              rel='noopener nofeferrer'>
             <h3>Podcast</h3>
