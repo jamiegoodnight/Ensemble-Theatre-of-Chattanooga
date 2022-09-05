@@ -47,7 +47,7 @@ const Navigation = (props) => {
             <a href='#About'>
               <h3 className='about-nav'>ABOUT</h3>
             </a> */}
-            <a href='https://anchor.fm/etchattanooga'
+            <a href='https://podcasts.apple.com/us/podcast/lights-up/id1530836392'
               target="_blank"
               rel='noopener nofeferrer'>
               <h3 className='pod-nav'>PODCAST</h3>
